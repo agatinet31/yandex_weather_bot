@@ -1,0 +1,56 @@
+﻿version: '3.8'
+
+services:
+  db:
+    image: postgres:15.3-alpine
+    restart: unless-stopped
+    volumes:
+      - postgres_db:/var/lib/postgresql/data/
+    environment:
+      - PGDATA:/var/lib/postgresql/data/
+    env_file:
+      - ./.env
+
+  pgadmin4:
+    image: dpage/pgadmin4:7.5
+    depends_on:
+      - db
+    volumes:
+      - pgadmin-data:/var/lib/pgadmin
+    env_file:
+      - ./.env
+  backend:
+    build: .
+    depends_on:
+      - db
+    restart: unless-stopped
+    volumes:
+      - static_data:/app/static/
+      - media_data:/app/media/
+      - locale_data:/app/locale/
+    env_file:
+      - ./.env
+
+  migrations:
+    build: .
+    container_name: migrations_prod
+    volumes:
+      - static_data:/app/static/
+      - media_data:/app/media/
+    command: >
+      sh -c "
+        sleep 5;
+        python manage.py migrate &&
+        python manage.py collectstatic --noinput
+      "
+    depends_on:
+      - backend
+    env_file:
+
+      - ./.env
+volumes:
+  static_data:
+  media_data:
+  locale_data:
+  postgres_db:
+  pgadmin-data:

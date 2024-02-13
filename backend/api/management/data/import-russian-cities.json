@@ -1,0 +1,5557 @@
+[
+    {
+        "city": "Абаза",
+        "latitude": "52.65",
+        "longitude": "90.083333333333"
+    },
+    {
+        "city": "Абакан",
+        "latitude": "53.71667",
+        "longitude": "91.41667"
+    },
+    {
+        "city": "Абдулино",
+        "latitude": "53.68333",
+        "longitude": "53.65"
+    },
+    {
+        "city": "Абинск",
+        "latitude": "44.86667",
+        "longitude": "38.16667"
+    },
+    {
+        "city": "Агидель",
+        "latitude": "55.9",
+        "longitude": "53.93333"
+    },
+    {
+        "city": "Агрыз",
+        "latitude": "56.51667",
+        "longitude": "52.98333"
+    },
+    {
+        "city": "Адыгейск",
+        "latitude": "44.884525",
+        "longitude": "39.19202"
+    },
+    {
+        "city": "Азнакаево",
+        "latitude": "54.85",
+        "longitude": "53.06667"
+    },
+    {
+        "city": "Азов",
+        "latitude": "47.1",
+        "longitude": "39.41667"
+    },
+    {
+        "city": "Ак-Довурак",
+        "latitude": "51.16667",
+        "longitude": "90.6"
+    },
+    {
+        "city": "Аксай",
+        "latitude": "47.26667",
+        "longitude": "39.86667"
+    },
+    {
+        "city": "Алагир",
+        "latitude": "43.04167",
+        "longitude": "44.21056"
+    },
+    {
+        "city": "Алапаевск",
+        "latitude": "57.85",
+        "longitude": "61.7"
+    },
+    {
+        "city": "Алатырь",
+        "latitude": "54.85",
+        "longitude": "46.58333"
+    },
+    {
+        "city": "Алдан",
+        "latitude": "58.6",
+        "longitude": "125.38333"
+    },
+    {
+        "city": "Алейск",
+        "latitude": "52.5",
+        "longitude": "82.78333"
+    },
+    {
+        "city": "Александров",
+        "latitude": "56.39361",
+        "longitude": "38.715"
+    },
+    {
+        "city": "Александровск-Сахалинский",
+        "latitude": "50.9",
+        "longitude": "142.15"
+    },
+    {
+        "city": "Александровск",
+        "latitude": "59.16667",
+        "longitude": "57.58333"
+    },
+    {
+        "city": "Алексеевка",
+        "latitude": "50.63",
+        "longitude": "38.68639"
+    },
+    {
+        "city": "Алексин",
+        "latitude": "54.5",
+        "longitude": "37.06667"
+    },
+    {
+        "city": "Алзамай",
+        "latitude": "55.55",
+        "longitude": "98.66667"
+    },
+    {
+        "city": "Алупка",
+        "latitude": "44.41972",
+        "longitude": "34.04306"
+    },
+    {
+        "city": "Алушта",
+        "latitude": "44.66722",
+        "longitude": "34.39778"
+    },
+    {
+        "city": "Альметьевск",
+        "latitude": "54.9",
+        "longitude": "52.3"
+    },
+    {
+        "city": "Амурск",
+        "latitude": "50.21667",
+        "longitude": "136.9"
+    },
+    {
+        "city": "Анадырь",
+        "latitude": "64.73333",
+        "longitude": "177.51667"
+    },
+    {
+        "city": "Анапа",
+        "latitude": "44.893857",
+        "longitude": "37.317481"
+    },
+    {
+        "city": "Ангарск",
+        "latitude": "52.56667",
+        "longitude": "103.91667"
+    },
+    {
+        "city": "Андреаполь",
+        "latitude": "56.65",
+        "longitude": "32.26667"
+    },
+    {
+        "city": "Анжеро-Судженск",
+        "latitude": "56.08333",
+        "longitude": "86.03333"
+    },
+    {
+        "city": "Анива",
+        "latitude": "46.71667",
+        "longitude": "142.51667"
+    },
+    {
+        "city": "Апатиты",
+        "latitude": "67.5675",
+        "longitude": "33.39333"
+    },
+    {
+        "city": "Апрелевка",
+        "latitude": "55.53333",
+        "longitude": "37.05"
+    },
+    {
+        "city": "Апшеронск",
+        "latitude": "44.46083",
+        "longitude": "39.74056"
+    },
+    {
+        "city": "Арамиль",
+        "latitude": "56.7",
+        "longitude": "60.83333"
+    },
+    {
+        "city": "Аргун",
+        "latitude": "43.292095",
+        "longitude": "45.876622"
+    },
+    {
+        "city": "Ардатов",
+        "latitude": "54.85",
+        "longitude": "46.23333"
+    },
+    {
+        "city": "Ардон",
+        "latitude": "43.17278",
+        "longitude": "44.29222"
+    },
+    {
+        "city": "Арзамас",
+        "latitude": "55.38333",
+        "longitude": "43.8"
+    },
+    {
+        "city": "Аркадак",
+        "latitude": "51.93333",
+        "longitude": "43.5"
+    },
+    {
+        "city": "Армавир",
+        "latitude": "44.99464",
+        "longitude": "41.12946"
+    },
+    {
+        "city": "Армянск",
+        "latitude": "46.10694",
+        "longitude": "33.69306"
+    },
+    {
+        "city": "Арсеньев",
+        "latitude": "44.16667",
+        "longitude": "133.26667"
+    },
+    {
+        "city": "Арск",
+        "latitude": "56.09056",
+        "longitude": "49.87639"
+    },
+    {
+        "city": "Артём",
+        "latitude": "43.35",
+        "longitude": "132.18333"
+    },
+    {
+        "city": "Артёмовск",
+        "latitude": "54.35",
+        "longitude": "93.43333"
+    },
+    {
+        "city": "Артёмовский",
+        "latitude": "57.33639",
+        "longitude": "61.89194"
+    },
+    {
+        "city": "Архангельск",
+        "latitude": "64.55",
+        "longitude": "40.53333"
+    },
+    {
+        "city": "Асбест",
+        "latitude": "57.01027679",
+        "longitude": "61.45639038"
+    },
+    {
+        "city": "Асино",
+        "latitude": "57",
+        "longitude": "86.15"
+    },
+    {
+        "city": "Астрахань",
+        "latitude": "46.33333",
+        "longitude": "48.03333"
+    },
+    {
+        "city": "Аткарск",
+        "latitude": "51.86667",
+        "longitude": "45"
+    },
+    {
+        "city": "Ахтубинск",
+        "latitude": "48.28333",
+        "longitude": "46.16667"
+    },
+    {
+        "city": "Ачинск",
+        "latitude": "56.26667",
+        "longitude": "90.5"
+    },
+    {
+        "city": "Ачхой-Мартан",
+        "latitude": "43.189155",
+        "longitude": "45.284741"
+    },
+    {
+        "city": "Аша",
+        "latitude": "55",
+        "longitude": "57.25"
+    },
+    {
+        "city": "Бабаево",
+        "latitude": "59.38333",
+        "longitude": "35.95"
+    },
+    {
+        "city": "Бабушкин",
+        "latitude": "51.71667",
+        "longitude": "105.86667"
+    },
+    {
+        "city": "Бавлы",
+        "latitude": "54.4",
+        "longitude": "53.25"
+    },
+    {
+        "city": "Багратионовск",
+        "latitude": "54.38333",
+        "longitude": "20.63333"
+    },
+    {
+        "city": "Байкальск",
+        "latitude": "51.51722",
+        "longitude": "104.15611"
+    },
+    {
+        "city": "Баймак",
+        "latitude": "52.58333",
+        "longitude": "58.31667"
+    },
+    {
+        "city": "Бакал",
+        "latitude": "54.93333",
+        "longitude": "58.8"
+    },
+    {
+        "city": "Баксан",
+        "latitude": "43.683333",
+        "longitude": "43.533333"
+    },
+    {
+        "city": "Балабаново",
+        "latitude": "55.18333",
+        "longitude": "36.65"
+    },
+    {
+        "city": "Балаклава",
+        "latitude": "44.5",
+        "longitude": "33.6"
+    },
+    {
+        "city": "Балаково",
+        "latitude": "52.03333",
+        "longitude": "47.78333"
+    },
+    {
+        "city": "Балахна",
+        "latitude": "56.48083",
+        "longitude": "43.54028"
+    },
+    {
+        "city": "Балашиха",
+        "latitude": "55.8",
+        "longitude": "37.93333"
+    },
+    {
+        "city": "Балашов",
+        "latitude": "51.55",
+        "longitude": "43.16667"
+    },
+    {
+        "city": "Балей",
+        "latitude": "51.57694",
+        "longitude": "116.64917"
+    },
+    {
+        "city": "Балтийск",
+        "latitude": "54.65",
+        "longitude": "19.91667"
+    },
+    {
+        "city": "Барабинск",
+        "latitude": "55.35",
+        "longitude": "78.35"
+    },
+    {
+        "city": "Барнаул",
+        "latitude": "53.347361",
+        "longitude": "83.77833"
+    },
+    {
+        "city": "Барыш",
+        "latitude": "53.65",
+        "longitude": "47.11667"
+    },
+    {
+        "city": "Батайск",
+        "latitude": "47.13333",
+        "longitude": "39.75"
+    },
+    {
+        "city": "Бахчисарай",
+        "latitude": "44.75278",
+        "longitude": "33.86083"
+    },
+    {
+        "city": "Бежецк",
+        "latitude": "57.78333",
+        "longitude": "36.7"
+    },
+    {
+        "city": "Белая Калитва",
+        "latitude": "48.17472",
+        "longitude": "40.79306"
+    },
+    {
+        "city": "Белая Холуница",
+        "latitude": "58.83333",
+        "longitude": "50.85"
+    },
+    {
+        "city": "Белгород",
+        "latitude": "50.6",
+        "longitude": "36.6"
+    },
+    {
+        "city": "Белебей",
+        "latitude": "54.1",
+        "longitude": "54.13333"
+    },
+    {
+        "city": "Белинский",
+        "latitude": "52.96667",
+        "longitude": "43.41667"
+    },
+    {
+        "city": "Белово",
+        "latitude": "54.416666666667",
+        "longitude": "86.3"
+    },
+    {
+        "city": "Белогорск",
+        "latitude": "50.91667",
+        "longitude": "128.48333"
+    },
+    {
+        "city": "Белозерск",
+        "latitude": "60.03333",
+        "longitude": "37.78333"
+    },
+    {
+        "city": "Белокуриха",
+        "latitude": "52",
+        "longitude": "84.98333"
+    },
+    {
+        "city": "Беломорск",
+        "latitude": "64.51667",
+        "longitude": "34.76667"
+    },
+    {
+        "city": "Белоозёрский",
+        "latitude": "55.46139",
+        "longitude": "38.44222"
+    },
+    {
+        "city": "Белорецк",
+        "latitude": "53.96667",
+        "longitude": "58.4"
+    },
+    {
+        "city": "Белореченск",
+        "latitude": "44.76667",
+        "longitude": "39.86667"
+    },
+    {
+        "city": "Белоусово",
+        "latitude": "55.09167",
+        "longitude": "36.66667"
+    },
+    {
+        "city": "Белоярский",
+        "latitude": "63.71667",
+        "longitude": "66.66667"
+    },
+    {
+        "city": "Белый",
+        "latitude": "55.83333",
+        "longitude": "32.93333"
+    },
+    {
+        "city": "Белёв",
+        "latitude": "53.8",
+        "longitude": "36.13333"
+    },
+    {
+        "city": "Бердск",
+        "latitude": "54.75",
+        "longitude": "83.1"
+    },
+    {
+        "city": "Березники",
+        "latitude": "59.40806",
+        "longitude": "56.80528"
+    },
+    {
+        "city": "Берёзовский",
+        "latitude": "55.66667",
+        "longitude": "86.25"
+    },
+    {
+        "city": "Беслан",
+        "latitude": "43.18889",
+        "longitude": "44.521691"
+    },
+    {
+        "city": "Бийск",
+        "latitude": "52.51667",
+        "longitude": "85.16667"
+    },
+    {
+        "city": "Бикин",
+        "latitude": "46.81667",
+        "longitude": "134.25"
+    },
+    {
+        "city": "Билибино",
+        "latitude": "68.05",
+        "longitude": "166.45"
+    },
+    {
+        "city": "Биробиджан",
+        "latitude": "48.78333",
+        "longitude": "132.93333"
+    },
+    {
+        "city": "Бирск",
+        "latitude": "55.41667",
+        "longitude": "55.53333"
+    },
+    {
+        "city": "Бирюсинск",
+        "latitude": "55.95",
+        "longitude": "97.81667"
+    },
+    {
+        "city": "Бирюч",
+        "latitude": "50.65",
+        "longitude": "38.4"
+    },
+    {
+        "city": "Благовещенск",
+        "latitude": "50.25778",
+        "longitude": "127.53639"
+    },
+    {
+        "city": "Благодарный",
+        "latitude": "45.1029039",
+        "longitude": "43.4251513"
+    },
+    {
+        "city": "Бобров",
+        "latitude": "51.09444",
+        "longitude": "40.03222"
+    },
+    {
+        "city": "Богданович",
+        "latitude": "56.78333",
+        "longitude": "62.05"
+    },
+    {
+        "city": "Богородицк",
+        "latitude": "53.76667",
+        "longitude": "38.13333"
+    },
+    {
+        "city": "Богородск",
+        "latitude": "56.09972",
+        "longitude": "43.50722"
+    },
+    {
+        "city": "Боготол",
+        "latitude": "56.2",
+        "longitude": "89.51667"
+    },
+    {
+        "city": "Богучар",
+        "latitude": "49.93333",
+        "longitude": "40.55"
+    },
+    {
+        "city": "Бодайбо",
+        "latitude": "57.85",
+        "longitude": "114.2"
+    },
+    {
+        "city": "Бокситогорск",
+        "latitude": "59.473576",
+        "longitude": "33.847675"
+    },
+    {
+        "city": "Болгар",
+        "latitude": "54.96667",
+        "longitude": "49.03333"
+    },
+    {
+        "city": "Бологое",
+        "latitude": "57.87083",
+        "longitude": "34.07361"
+    },
+    {
+        "city": "Болотное",
+        "latitude": "55.66667",
+        "longitude": "84.4"
+    },
+    {
+        "city": "Болохово",
+        "latitude": "54.08333",
+        "longitude": "37.81667"
+    },
+    {
+        "city": "Болхов",
+        "latitude": "53.45",
+        "longitude": "36"
+    },
+    {
+        "city": "Большой Камень",
+        "latitude": "43.11667",
+        "longitude": "132.35"
+    },
+    {
+        "city": "Бор",
+        "latitude": "56.36028",
+        "longitude": "44.05917"
+    },
+    {
+        "city": "Борзя",
+        "latitude": "50.38333",
+        "longitude": "116.53333"
+    },
+    {
+        "city": "Борисоглебск",
+        "latitude": "51.36667",
+        "longitude": "42.08333"
+    },
+    {
+        "city": "Боровичи",
+        "latitude": "58.38694",
+        "longitude": "33.91139"
+    },
+    {
+        "city": "Боровск",
+        "latitude": "55.2",
+        "longitude": "36.48333"
+    },
+    {
+        "city": "Бородино",
+        "latitude": "55.9",
+        "longitude": "94.9"
+    },
+    {
+        "city": "Братск",
+        "latitude": "56.152",
+        "longitude": "101.633"
+    },
+    {
+        "city": "Бронницы",
+        "latitude": "55.42278",
+        "longitude": "38.25889"
+    },
+    {
+        "city": "Брянск",
+        "latitude": "53.25",
+        "longitude": "34.36667"
+    },
+    {
+        "city": "Бугульма",
+        "latitude": "54.53333",
+        "longitude": "52.78333"
+    },
+    {
+        "city": "Бугуруслан",
+        "latitude": "53.61667",
+        "longitude": "52.41667"
+    },
+    {
+        "city": "Будённовск",
+        "latitude": "44.79",
+        "longitude": "44.14"
+    },
+    {
+        "city": "Бузулук",
+        "latitude": "52.76667",
+        "longitude": "52.26667"
+    },
+    {
+        "city": "Буинск",
+        "latitude": "54.96667",
+        "longitude": "48.28333"
+    },
+    {
+        "city": "Буй",
+        "latitude": "58.48333",
+        "longitude": "41.51667"
+    },
+    {
+        "city": "Буйнакск",
+        "latitude": "42.81667",
+        "longitude": "47.11667"
+    },
+    {
+        "city": "Бутурлиновка",
+        "latitude": "50.825",
+        "longitude": "40.58889"
+    },
+    {
+        "city": "Валдай",
+        "latitude": "57.96667",
+        "longitude": "33.25"
+    },
+    {
+        "city": "Валуйки",
+        "latitude": "50.18333",
+        "longitude": "38.11667"
+    },
+    {
+        "city": "Велиж",
+        "latitude": "55.6",
+        "longitude": "31.2"
+    },
+    {
+        "city": "Великие Луки",
+        "latitude": "56.35",
+        "longitude": "30.51667"
+    },
+    {
+        "city": "Великий Новгород",
+        "latitude": "58.525",
+        "longitude": "31.275"
+    },
+    {
+        "city": "Великий Устюг",
+        "latitude": "60.75889",
+        "longitude": "46.30389"
+    },
+    {
+        "city": "Вельск",
+        "latitude": "61.06667",
+        "longitude": "42.1"
+    },
+    {
+        "city": "Венёв",
+        "latitude": "54.35",
+        "longitude": "38.26667"
+    },
+    {
+        "city": "Верещагино",
+        "latitude": "58.06667",
+        "longitude": "54.65"
+    },
+    {
+        "city": "Верея",
+        "latitude": "55.33333",
+        "longitude": "36.18333"
+    },
+    {
+        "city": "Верхнеуральск",
+        "latitude": "53.88333",
+        "longitude": "59.21667"
+    },
+    {
+        "city": "Верхний Тагил",
+        "latitude": "57.38333",
+        "longitude": "59.93333"
+    },
+    {
+        "city": "Верхний Уфалей",
+        "latitude": "56.05",
+        "longitude": "60.23333"
+    },
+    {
+        "city": "Верхняя Пышма",
+        "latitude": "56.966666666667",
+        "longitude": "60.583333333333"
+    },
+    {
+        "city": "Верхняя Салда",
+        "latitude": "58.05",
+        "longitude": "60.55"
+    },
+    {
+        "city": "Верхняя Тура",
+        "latitude": "58.3574333",
+        "longitude": "59.8224444"
+    },
+    {
+        "city": "Верхотурье",
+        "latitude": "58.86667",
+        "longitude": "60.8"
+    },
+    {
+        "city": "Верхоянск",
+        "latitude": "67.55",
+        "longitude": "133.38333"
+    },
+    {
+        "city": "Весьегонск",
+        "latitude": "58.65",
+        "longitude": "37.26667"
+    },
+    {
+        "city": "Ветлуга",
+        "latitude": "57.85556",
+        "longitude": "45.78111"
+    },
+    {
+        "city": "Видное",
+        "latitude": "55.55",
+        "longitude": "37.7"
+    },
+    {
+        "city": "Вилюйск",
+        "latitude": "63.75",
+        "longitude": "121.61667"
+    },
+    {
+        "city": "Вилючинск",
+        "latitude": "52.93333",
+        "longitude": "158.4"
+    },
+    {
+        "city": "Вихоревка",
+        "latitude": "56.11667",
+        "longitude": "101.16667"
+    },
+    {
+        "city": "Вичуга",
+        "latitude": "57.2",
+        "longitude": "41.91667"
+    },
+    {
+        "city": "Владивосток",
+        "latitude": "43.116666666667",
+        "longitude": "131.9"
+    },
+    {
+        "city": "Владикавказ",
+        "latitude": "43.01667",
+        "longitude": "44.683315"
+    },
+    {
+        "city": "Владимир",
+        "latitude": "56.13333",
+        "longitude": "40.41667"
+    },
+    {
+        "city": "Волгоград",
+        "latitude": "48.71167",
+        "longitude": "44.51389"
+    },
+    {
+        "city": "Волгодонск",
+        "latitude": "47.54",
+        "longitude": "42.20722"
+    },
+    {
+        "city": "Волгореченск",
+        "latitude": "57.43333",
+        "longitude": "41.16667"
+    },
+    {
+        "city": "Волжск",
+        "latitude": "55.86667",
+        "longitude": "48.35"
+    },
+    {
+        "city": "Волжский",
+        "latitude": "48.783333333333",
+        "longitude": "44.766666666667"
+    },
+    {
+        "city": "Вологда",
+        "latitude": "59.216666666667",
+        "longitude": "39.9"
+    },
+    {
+        "city": "Володарск",
+        "latitude": "56.23333",
+        "longitude": "43.2"
+    },
+    {
+        "city": "Волоколамск",
+        "latitude": "56.03333",
+        "longitude": "35.95"
+    },
+    {
+        "city": "Волосово",
+        "latitude": "59.447275",
+        "longitude": "29.484819"
+    },
+    {
+        "city": "Волхов",
+        "latitude": "59.900543",
+        "longitude": "32.352681"
+    },
+    {
+        "city": "Волчанск",
+        "latitude": "59.93333",
+        "longitude": "60.05"
+    },
+    {
+        "city": "Вольск",
+        "latitude": "52.05",
+        "longitude": "47.38333"
+    },
+    {
+        "city": "Воркута",
+        "latitude": "67.5",
+        "longitude": "64.03333"
+    },
+    {
+        "city": "Воронеж",
+        "latitude": "51.67167",
+        "longitude": "39.21056"
+    },
+    {
+        "city": "Ворсма",
+        "latitude": "55.98333",
+        "longitude": "43.26667"
+    },
+    {
+        "city": "Воскресенск",
+        "latitude": "55.32333",
+        "longitude": "38.68056"
+    },
+    {
+        "city": "Воткинск",
+        "latitude": "57.05",
+        "longitude": "54"
+    },
+    {
+        "city": "Всеволожск",
+        "latitude": "60.021321",
+        "longitude": "30.654084"
+    },
+    {
+        "city": "Вуктыл",
+        "latitude": "63.86667",
+        "longitude": "57.31667"
+    },
+    {
+        "city": "Выборг",
+        "latitude": "60.710496",
+        "longitude": "28.749781"
+    },
+    {
+        "city": "Выкса",
+        "latitude": "55.31944",
+        "longitude": "42.17306"
+    },
+    {
+        "city": "Высоковск",
+        "latitude": "56.31667",
+        "longitude": "36.55"
+    },
+    {
+        "city": "Высоцк",
+        "latitude": "60.625604",
+        "longitude": "28.568277"
+    },
+    {
+        "city": "Вытегра",
+        "latitude": "61",
+        "longitude": "36.45"
+    },
+    {
+        "city": "Вышний Волочёк",
+        "latitude": "57.58333",
+        "longitude": "34.56667"
+    },
+    {
+        "city": "Вяземский",
+        "latitude": "47.53333",
+        "longitude": "134.75"
+    },
+    {
+        "city": "Вязники",
+        "latitude": "56.24333",
+        "longitude": "42.12917"
+    },
+    {
+        "city": "Вязьма",
+        "latitude": "55.21028",
+        "longitude": "34.285"
+    },
+    {
+        "city": "Вятские Поляны",
+        "latitude": "56.218417",
+        "longitude": "51.068583"
+    },
+    {
+        "city": "Гаврилов Посад",
+        "latitude": "56.56667",
+        "longitude": "40.11667"
+    },
+    {
+        "city": "Гаврилов-Ям",
+        "latitude": "57.3",
+        "longitude": "39.85"
+    },
+    {
+        "city": "Гагарин",
+        "latitude": "55.55",
+        "longitude": "35"
+    },
+    {
+        "city": "Гаджиево",
+        "latitude": "69.25528",
+        "longitude": "33.31667"
+    },
+    {
+        "city": "Гай",
+        "latitude": "51.46667",
+        "longitude": "58.45"
+    },
+    {
+        "city": "Галич",
+        "latitude": "58.38333",
+        "longitude": "42.35"
+    },
+    {
+        "city": "Гатчина",
+        "latitude": "59.56841",
+        "longitude": "30.122892"
+    },
+    {
+        "city": "Гвардейск",
+        "latitude": "54.65",
+        "longitude": "21.06667"
+    },
+    {
+        "city": "Гдов",
+        "latitude": "58.73333",
+        "longitude": "27.81667"
+    },
+    {
+        "city": "Геленджик",
+        "latitude": "44.560999",
+        "longitude": "38.076949"
+    },
+    {
+        "city": "Георгиевск",
+        "latitude": "44.15",
+        "longitude": "43.46667"
+    },
+    {
+        "city": "Глазов",
+        "latitude": "58.14083",
+        "longitude": "52.67417"
+    },
+    {
+        "city": "Голицыно",
+        "latitude": "55.61472",
+        "longitude": "36.98722"
+    },
+    {
+        "city": "Горбатов",
+        "latitude": "56.13333",
+        "longitude": "43.06667"
+    },
+    {
+        "city": "Горно-Алтайск",
+        "latitude": "51.96",
+        "longitude": "85.96"
+    },
+    {
+        "city": "Горнозаводск",
+        "latitude": "58.38333",
+        "longitude": "58.31667"
+    },
+    {
+        "city": "Горняк",
+        "latitude": "50.993028",
+        "longitude": "81.467934"
+    },
+    {
+        "city": "Городец",
+        "latitude": "56.65028",
+        "longitude": "43.47028"
+    },
+    {
+        "city": "Городище",
+        "latitude": "53.26667",
+        "longitude": "45.7"
+    },
+    {
+        "city": "Городовиковск",
+        "latitude": "46.08333",
+        "longitude": "41.93333"
+    },
+    {
+        "city": "Гороховец",
+        "latitude": "56.20278",
+        "longitude": "42.6925"
+    },
+    {
+        "city": "Горячий Ключ",
+        "latitude": "44.633284",
+        "longitude": "39.133287"
+    },
+    {
+        "city": "Грайворон",
+        "latitude": "50.48333",
+        "longitude": "35.66667"
+    },
+    {
+        "city": "Гремячинск",
+        "latitude": "58.56667",
+        "longitude": "57.83333"
+    },
+    {
+        "city": "Грозный",
+        "latitude": "43.31667",
+        "longitude": "45.7"
+    },
+    {
+        "city": "Грязи",
+        "latitude": "52.5",
+        "longitude": "39.93333"
+    },
+    {
+        "city": "Грязовец",
+        "latitude": "58.88333",
+        "longitude": "40.25"
+    },
+    {
+        "city": "Губаха",
+        "latitude": "58.86667",
+        "longitude": "57.58333"
+    },
+    {
+        "city": "Губкин",
+        "latitude": "51.28333",
+        "longitude": "37.55"
+    },
+    {
+        "city": "Губкинский",
+        "latitude": "64.43333",
+        "longitude": "76.5"
+    },
+    {
+        "city": "Гудермес",
+        "latitude": "43.34861",
+        "longitude": "46.09611"
+    },
+    {
+        "city": "Гуково",
+        "latitude": "48.05",
+        "longitude": "39.93333"
+    },
+    {
+        "city": "Гулькевичи",
+        "latitude": "45.36028",
+        "longitude": "40.69444"
+    },
+    {
+        "city": "Гурьевск",
+        "latitude": "54.76667",
+        "longitude": "20.6"
+    },
+    {
+        "city": "Гусев",
+        "latitude": "54.58333",
+        "longitude": "22.2"
+    },
+    {
+        "city": "Гусиноозёрск",
+        "latitude": "51.28556",
+        "longitude": "106.52917"
+    },
+    {
+        "city": "Гусь-Хрустальный",
+        "latitude": "55.61667",
+        "longitude": "40.65"
+    },
+    {
+        "city": "Давлеканово",
+        "latitude": "54.21667",
+        "longitude": "55.03333"
+    },
+    {
+        "city": "Дагестанские Огни",
+        "latitude": "42.11667",
+        "longitude": "48.2"
+    },
+    {
+        "city": "Далматово",
+        "latitude": "56.26667",
+        "longitude": "62.91667"
+    },
+    {
+        "city": "Дальнегорск",
+        "latitude": "44.56667",
+        "longitude": "135.61667"
+    },
+    {
+        "city": "Дальнереченск",
+        "latitude": "45.93333",
+        "longitude": "133.73333"
+    },
+    {
+        "city": "Данилов",
+        "latitude": "58.18333",
+        "longitude": "40.18333"
+    },
+    {
+        "city": "Данков",
+        "latitude": "53.25",
+        "longitude": "39.15"
+    },
+    {
+        "city": "Дегтярск",
+        "latitude": "56.7",
+        "longitude": "60.1"
+    },
+    {
+        "city": "Дедовск",
+        "latitude": "55.86667",
+        "longitude": "37.13333"
+    },
+    {
+        "city": "Демидов",
+        "latitude": "55.26667",
+        "longitude": "31.51667"
+    },
+    {
+        "city": "Дербент",
+        "latitude": "42.069825",
+        "longitude": "48.295025"
+    },
+    {
+        "city": "Десногорск",
+        "latitude": "54.1530861",
+        "longitude": "33.2902917"
+    },
+    {
+        "city": "Джанкой",
+        "latitude": "45.70861",
+        "longitude": "34.39333"
+    },
+    {
+        "city": "Дзержинск",
+        "latitude": "56.23333",
+        "longitude": "43.45"
+    },
+    {
+        "city": "Дзержинский",
+        "latitude": "55.63333",
+        "longitude": "37.85"
+    },
+    {
+        "city": "Дивногорск",
+        "latitude": "55.95",
+        "longitude": "92.38333"
+    },
+    {
+        "city": "Дигора",
+        "latitude": "43.15",
+        "longitude": "44.15"
+    },
+    {
+        "city": "Димитровград",
+        "latitude": "54.23333",
+        "longitude": "49.58333"
+    },
+    {
+        "city": "Дмитриев",
+        "latitude": "52.12889",
+        "longitude": "35.07556"
+    },
+    {
+        "city": "Дмитров",
+        "latitude": "56.34667",
+        "longitude": "37.52167"
+    },
+    {
+        "city": "Дмитровск",
+        "latitude": "52.505504",
+        "longitude": "35.141478"
+    },
+    {
+        "city": "Дно",
+        "latitude": "57.83333",
+        "longitude": "29.96667"
+    },
+    {
+        "city": "Добрянка",
+        "latitude": "58.45",
+        "longitude": "56.41667"
+    },
+    {
+        "city": "Долгопрудный",
+        "latitude": "55.93333",
+        "longitude": "37.5"
+    },
+    {
+        "city": "Долинск",
+        "latitude": "47.31667",
+        "longitude": "142.8"
+    },
+    {
+        "city": "Домодедово",
+        "latitude": "55.44389",
+        "longitude": "37.75806"
+    },
+    {
+        "city": "Донецк",
+        "latitude": "48.33694",
+        "longitude": "39.945"
+    },
+    {
+        "city": "Донской",
+        "latitude": "53.96667",
+        "longitude": "38.31667"
+    },
+    {
+        "city": "Дорогобуж",
+        "latitude": "54.92",
+        "longitude": "33.307777777778"
+    },
+    {
+        "city": "Дрезна",
+        "latitude": "55.74444",
+        "longitude": "38.84944"
+    },
+    {
+        "city": "Дубна",
+        "latitude": "56.75",
+        "longitude": "37.15"
+    },
+    {
+        "city": "Дубовка",
+        "latitude": "49.05",
+        "longitude": "44.83333"
+    },
+    {
+        "city": "Дудинка",
+        "latitude": "69.4",
+        "longitude": "86.18333"
+    },
+    {
+        "city": "Духовщина",
+        "latitude": "55.2",
+        "longitude": "32.41667"
+    },
+    {
+        "city": "Дюртюли",
+        "latitude": "55.48333",
+        "longitude": "54.86667"
+    },
+    {
+        "city": "Дятьково",
+        "latitude": "53.6",
+        "longitude": "34.33333"
+    },
+    {
+        "city": "Евпатория",
+        "latitude": "45.2",
+        "longitude": "33.35833"
+    },
+    {
+        "city": "Егорьевск",
+        "latitude": "55.38333",
+        "longitude": "39.03361"
+    },
+    {
+        "city": "Ейск",
+        "latitude": "46.71056",
+        "longitude": "38.27778"
+    },
+    {
+        "city": "Екатеринбург",
+        "latitude": "56.83333",
+        "longitude": "60.58333"
+    },
+    {
+        "city": "Елабуга",
+        "latitude": "55.76667",
+        "longitude": "52.03333"
+    },
+    {
+        "city": "Елец",
+        "latitude": "52.61667",
+        "longitude": "38.46667"
+    },
+    {
+        "city": "Елизово",
+        "latitude": "53.18333",
+        "longitude": "158.38333"
+    },
+    {
+        "city": "Ельня",
+        "latitude": "54.56667",
+        "longitude": "33.16667"
+    },
+    {
+        "city": "Еманжелинск",
+        "latitude": "54.75",
+        "longitude": "61.31667"
+    },
+    {
+        "city": "Емва",
+        "latitude": "62.58333",
+        "longitude": "50.85"
+    },
+    {
+        "city": "Енисейск",
+        "latitude": "58.46667",
+        "longitude": "92.13333"
+    },
+    {
+        "city": "Ермолино",
+        "latitude": "55.20556",
+        "longitude": "36.57"
+    },
+    {
+        "city": "Ершов",
+        "latitude": "51.35",
+        "longitude": "48.28333"
+    },
+    {
+        "city": "Ессентуки",
+        "latitude": "44.04306",
+        "longitude": "42.86417"
+    },
+    {
+        "city": "Ефремов",
+        "latitude": "53.149167",
+        "longitude": "38.082585"
+    },
+    {
+        "city": "Железноводск",
+        "latitude": "44.13333",
+        "longitude": "43.03333"
+    },
+    {
+        "city": "Железногорск-Илимский",
+        "latitude": "56.58333",
+        "longitude": "104.11667"
+    },
+    {
+        "city": "Железногорск",
+        "latitude": "56.25",
+        "longitude": "93.53333"
+    },
+    {
+        "city": "Жердевка",
+        "latitude": "51.83333",
+        "longitude": "41.46667"
+    },
+    {
+        "city": "Жигулёвск",
+        "latitude": "53.4",
+        "longitude": "49.5"
+    },
+    {
+        "city": "Жиздра",
+        "latitude": "53.75028",
+        "longitude": "34.73611"
+    },
+    {
+        "city": "Жирновск",
+        "latitude": "50.98028",
+        "longitude": "44.78083"
+    },
+    {
+        "city": "Жуков",
+        "latitude": "55.03333",
+        "longitude": "36.75"
+    },
+    {
+        "city": "Жуковка",
+        "latitude": "53.53333",
+        "longitude": "33.73333"
+    },
+    {
+        "city": "Жуковский",
+        "latitude": "55.60111",
+        "longitude": "38.11611"
+    },
+    {
+        "city": "Завитинск",
+        "latitude": "50.11667",
+        "longitude": "129.43333"
+    },
+    {
+        "city": "Заводоуковск",
+        "latitude": "56.5",
+        "longitude": "66.55"
+    },
+    {
+        "city": "Заволжск",
+        "latitude": "57.48333",
+        "longitude": "42.13333"
+    },
+    {
+        "city": "Заволжье",
+        "latitude": "56.6425",
+        "longitude": "43.39278"
+    },
+    {
+        "city": "Задонск",
+        "latitude": "52.38333",
+        "longitude": "38.91667"
+    },
+    {
+        "city": "Заинск",
+        "latitude": "55.3",
+        "longitude": "52.01667"
+    },
+    {
+        "city": "Закаменск",
+        "latitude": "50.38333",
+        "longitude": "103.28333"
+    },
+    {
+        "city": "Заозёрный",
+        "latitude": "55.96667",
+        "longitude": "94.7"
+    },
+    {
+        "city": "Заозёрск",
+        "latitude": "69.4",
+        "longitude": "32.45"
+    },
+    {
+        "city": "Западная Двина",
+        "latitude": "56.26667",
+        "longitude": "32.08333"
+    },
+    {
+        "city": "Заполярный",
+        "latitude": "69.41667",
+        "longitude": "30.8"
+    },
+    {
+        "city": "Зарайск",
+        "latitude": "54.76528",
+        "longitude": "38.88361"
+    },
+    {
+        "city": "Заречный",
+        "latitude": "53.2",
+        "longitude": "45.16667"
+    },
+    {
+        "city": "Заринск",
+        "latitude": "53.7",
+        "longitude": "84.91667"
+    },
+    {
+        "city": "Звенигово",
+        "latitude": "55.96667",
+        "longitude": "48.01667"
+    },
+    {
+        "city": "Звенигород",
+        "latitude": "55.73333",
+        "longitude": "36.85"
+    },
+    {
+        "city": "Зверево",
+        "latitude": "48.01667",
+        "longitude": "40.11667"
+    },
+    {
+        "city": "Зеленогорск",
+        "latitude": "56.1",
+        "longitude": "94.58333"
+    },
+    {
+        "city": "Зеленоград",
+        "latitude": "55.997917",
+        "longitude": "37.190417"
+    },
+    {
+        "city": "Зеленоградск",
+        "latitude": "54.95",
+        "longitude": "20.48333"
+    },
+    {
+        "city": "Зеленодольск",
+        "latitude": "55.85",
+        "longitude": "48.51667"
+    },
+    {
+        "city": "Зеленокумск",
+        "latitude": "44.4070115",
+        "longitude": "43.8731235"
+    },
+    {
+        "city": "Зерноград",
+        "latitude": "46.846525",
+        "longitude": "40.3040333"
+    },
+    {
+        "city": "Зея",
+        "latitude": "53.73333",
+        "longitude": "127.25"
+    },
+    {
+        "city": "Зима",
+        "latitude": "53.91667",
+        "longitude": "102.05"
+    },
+    {
+        "city": "Златоуст",
+        "latitude": "55.16667",
+        "longitude": "59.66667"
+    },
+    {
+        "city": "Злынка",
+        "latitude": "52.43333",
+        "longitude": "31.73333"
+    },
+    {
+        "city": "Змеиногорск",
+        "latitude": "51.16667",
+        "longitude": "82.16667"
+    },
+    {
+        "city": "Знаменск",
+        "latitude": "48.58333",
+        "longitude": "45.75"
+    },
+    {
+        "city": "Зубцов",
+        "latitude": "56.16667",
+        "longitude": "34.58333"
+    },
+    {
+        "city": "Зуевка",
+        "latitude": "58.403333",
+        "longitude": "51.130361"
+    },
+    {
+        "city": "Ивангород",
+        "latitude": "59.37649",
+        "longitude": "28.219712"
+    },
+    {
+        "city": "Иваново",
+        "latitude": "56.99667",
+        "longitude": "40.98194"
+    },
+    {
+        "city": "Ивантеевка",
+        "latitude": "55.97",
+        "longitude": "37.92"
+    },
+    {
+        "city": "Ивдель",
+        "latitude": "60.68333",
+        "longitude": "60.43333"
+    },
+    {
+        "city": "Игарка",
+        "latitude": "67.46667",
+        "longitude": "86.56667"
+    },
+    {
+        "city": "Ижевск",
+        "latitude": "56.85306",
+        "longitude": "53.21222"
+    },
+    {
+        "city": "Избербаш",
+        "latitude": "42.56667",
+        "longitude": "47.86667"
+    },
+    {
+        "city": "Изобильный",
+        "latitude": "45.36667",
+        "longitude": "41.71667"
+    },
+    {
+        "city": "Иланский",
+        "latitude": "56.23333",
+        "longitude": "96.06667"
+    },
+    {
+        "city": "Инза",
+        "latitude": "53.85",
+        "longitude": "46.35"
+    },
+    {
+        "city": "Инкерман",
+        "latitude": "44.61417",
+        "longitude": "33.60833"
+    },
+    {
+        "city": "Иннополис",
+        "latitude": "55.763633",
+        "longitude": "48.736553"
+    },
+    {
+        "city": "Инсар",
+        "latitude": "53.86667",
+        "longitude": "44.36667"
+    },
+    {
+        "city": "Инта",
+        "latitude": "66.0398139",
+        "longitude": "60.1315194"
+    },
+    {
+        "city": "Ипатово",
+        "latitude": "45.71667",
+        "longitude": "42.9"
+    },
+    {
+        "city": "Ирбит",
+        "latitude": "57.66667",
+        "longitude": "63.06667"
+    },
+    {
+        "city": "Иркутск",
+        "latitude": "52.28333",
+        "longitude": "104.3"
+    },
+    {
+        "city": "Исилькуль",
+        "latitude": "54.90889",
+        "longitude": "71.26056"
+    },
+    {
+        "city": "Искитим",
+        "latitude": "54.63333",
+        "longitude": "83.3"
+    },
+    {
+        "city": "Истра",
+        "latitude": "55.91667",
+        "longitude": "36.86667"
+    },
+    {
+        "city": "Ишим",
+        "latitude": "56.11667",
+        "longitude": "69.5"
+    },
+    {
+        "city": "Ишимбай",
+        "latitude": "53.45444",
+        "longitude": "56.04389"
+    },
+    {
+        "city": "Йошкар-Ола",
+        "latitude": "56.632777777778",
+        "longitude": "47.895833333333"
+    },
+    {
+        "city": "Кадников",
+        "latitude": "59.5",
+        "longitude": "40.33333"
+    },
+    {
+        "city": "Казань",
+        "latitude": "55.79083",
+        "longitude": "49.11444"
+    },
+    {
+        "city": "Калач-на-Дону",
+        "latitude": "48.68333",
+        "longitude": "43.53333"
+    },
+    {
+        "city": "Калач",
+        "latitude": "50.42583",
+        "longitude": "41.01556"
+    },
+    {
+        "city": "Калачинск",
+        "latitude": "55.05",
+        "longitude": "74.58333"
+    },
+    {
+        "city": "Калининград",
+        "latitude": "54.71667",
+        "longitude": "20.5"
+    },
+    {
+        "city": "Калининск",
+        "latitude": "51.5",
+        "longitude": "44.45"
+    },
+    {
+        "city": "Калтан",
+        "latitude": "53.51667",
+        "longitude": "87.26667"
+    },
+    {
+        "city": "Калуга",
+        "latitude": "54.53333",
+        "longitude": "36.26667"
+    },
+    {
+        "city": "Калязин",
+        "latitude": "57.23333",
+        "longitude": "37.85"
+    },
+    {
+        "city": "Камбарка",
+        "latitude": "56.26667",
+        "longitude": "54.2"
+    },
+    {
+        "city": "Каменка",
+        "latitude": "53.18333",
+        "longitude": "44.05"
+    },
+    {
+        "city": "Каменногорск",
+        "latitude": "60.95081",
+        "longitude": "29.130882"
+    },
+    {
+        "city": "Каменск-Уральский",
+        "latitude": "56.4",
+        "longitude": "61.93333"
+    },
+    {
+        "city": "Каменск-Шахтинский",
+        "latitude": "48.31667",
+        "longitude": "40.26667"
+    },
+    {
+        "city": "Камень-на-Оби",
+        "latitude": "53.79194",
+        "longitude": "81.34861"
+    },
+    {
+        "city": "Камешково",
+        "latitude": "56.34917",
+        "longitude": "40.99778"
+    },
+    {
+        "city": "Камызяк",
+        "latitude": "46.11556",
+        "longitude": "48.07694"
+    },
+    {
+        "city": "Камышин",
+        "latitude": "50.08333",
+        "longitude": "45.4"
+    },
+    {
+        "city": "Камышлов",
+        "latitude": "56.85",
+        "longitude": "62.71667"
+    },
+    {
+        "city": "Канаш",
+        "latitude": "55.50694",
+        "longitude": "47.49139"
+    },
+    {
+        "city": "Кандалакша",
+        "latitude": "67.15694",
+        "longitude": "32.41167"
+    },
+    {
+        "city": "Канск",
+        "latitude": "56.2",
+        "longitude": "95.7"
+    },
+    {
+        "city": "Карабаново",
+        "latitude": "56.30889",
+        "longitude": "38.70139"
+    },
+    {
+        "city": "Карабаш",
+        "latitude": "55.48333",
+        "longitude": "60.2"
+    },
+    {
+        "city": "Карабулак",
+        "latitude": "43.306285",
+        "longitude": "44.909763"
+    },
+    {
+        "city": "Карасук",
+        "latitude": "53.73333",
+        "longitude": "78.03333"
+    },
+    {
+        "city": "Карачаевск",
+        "latitude": "43.769713",
+        "longitude": "41.911369"
+    },
+    {
+        "city": "Карачев",
+        "latitude": "53.11667",
+        "longitude": "34.98333"
+    },
+    {
+        "city": "Каргат",
+        "latitude": "55.2",
+        "longitude": "80.28333"
+    },
+    {
+        "city": "Каргополь",
+        "latitude": "61.5",
+        "longitude": "38.93333"
+    },
+    {
+        "city": "Карпинск",
+        "latitude": "59.76667",
+        "longitude": "60"
+    },
+    {
+        "city": "Карталы",
+        "latitude": "53.05",
+        "longitude": "60.65"
+    },
+    {
+        "city": "Касимов",
+        "latitude": "54.95",
+        "longitude": "41.39722"
+    },
+    {
+        "city": "Касли",
+        "latitude": "55.88333",
+        "longitude": "60.75"
+    },
+    {
+        "city": "Каспийск",
+        "latitude": "42.88333",
+        "longitude": "47.63333"
+    },
+    {
+        "city": "Катав-Ивановск",
+        "latitude": "54.75",
+        "longitude": "58.2"
+    },
+    {
+        "city": "Катайск",
+        "latitude": "56.3",
+        "longitude": "62.56667"
+    },
+    {
+        "city": "Качканар",
+        "latitude": "58.7",
+        "longitude": "59.48333"
+    },
+    {
+        "city": "Кашин",
+        "latitude": "57.35",
+        "longitude": "37.61667"
+    },
+    {
+        "city": "Кашира",
+        "latitude": "54.83333",
+        "longitude": "38.15"
+    },
+    {
+        "city": "Кедровый",
+        "latitude": "57.56667",
+        "longitude": "79.56667"
+    },
+    {
+        "city": "Кемерово",
+        "latitude": "55.35417",
+        "longitude": "86.08972"
+    },
+    {
+        "city": "Кемь",
+        "latitude": "64.95",
+        "longitude": "34.6"
+    },
+    {
+        "city": "Керчь",
+        "latitude": "45.33861",
+        "longitude": "36.46806"
+    },
+    {
+        "city": "Кизел",
+        "latitude": "59.05",
+        "longitude": "57.65"
+    },
+    {
+        "city": "Кизилюрт",
+        "latitude": "43.2",
+        "longitude": "46.86667"
+    },
+    {
+        "city": "Кизляр",
+        "latitude": "43.850245",
+        "longitude": "46.71698"
+    },
+    {
+        "city": "Кимовск",
+        "latitude": "53.96667",
+        "longitude": "38.53333"
+    },
+    {
+        "city": "Кимры",
+        "latitude": "56.86667",
+        "longitude": "37.35"
+    },
+    {
+        "city": "Кингисепп",
+        "latitude": "59.378053",
+        "longitude": "28.601209"
+    },
+    {
+        "city": "Кинель",
+        "latitude": "53.23333",
+        "longitude": "50.61667"
+    },
+    {
+        "city": "Кинешма",
+        "latitude": "57.45",
+        "longitude": "42.15"
+    },
+    {
+        "city": "Киреевск",
+        "latitude": "53.93333",
+        "longitude": "37.93333"
+    },
+    {
+        "city": "Киренск",
+        "latitude": "57.78333",
+        "longitude": "108.1"
+    },
+    {
+        "city": "Киржач",
+        "latitude": "56.15",
+        "longitude": "38.86667"
+    },
+    {
+        "city": "Кириллов",
+        "latitude": "59.86667",
+        "longitude": "38.38333"
+    },
+    {
+        "city": "Кириши",
+        "latitude": "59.449695",
+        "longitude": "32.008716"
+    },
+    {
+        "city": "Киров",
+        "latitude": "54.08333",
+        "longitude": "34.3"
+    },
+    {
+        "city": "Кировград",
+        "latitude": "57.43333",
+        "longitude": "60.06667"
+    },
+    {
+        "city": "Кирово-Чепецк",
+        "latitude": "58.55",
+        "longitude": "50.01667"
+    },
+    {
+        "city": "Кировск",
+        "latitude": "59.87533",
+        "longitude": "30.981457"
+    },
+    {
+        "city": "Кирс",
+        "latitude": "59.337167",
+        "longitude": "52.245472"
+    },
+    {
+        "city": "Кирсанов",
+        "latitude": "52.65",
+        "longitude": "42.73333"
+    },
+    {
+        "city": "Киселёвск",
+        "latitude": "53.98333",
+        "longitude": "86.7"
+    },
+    {
+        "city": "Кисловодск",
+        "latitude": "43.90333",
+        "longitude": "42.72444"
+    },
+    {
+        "city": "Клин",
+        "latitude": "56.33389",
+        "longitude": "36.7125"
+    },
+    {
+        "city": "Клинцы",
+        "latitude": "52.75278",
+        "longitude": "32.23611"
+    },
+    {
+        "city": "Княгинино",
+        "latitude": "55.81667",
+        "longitude": "45.03333"
+    },
+    {
+        "city": "Ковдор",
+        "latitude": "67.55944",
+        "longitude": "30.46667"
+    },
+    {
+        "city": "Ковров",
+        "latitude": "56.36056",
+        "longitude": "41.31972"
+    },
+    {
+        "city": "Ковылкино",
+        "latitude": "54.03333",
+        "longitude": "43.91667"
+    },
+    {
+        "city": "Когалым",
+        "latitude": "62.26667",
+        "longitude": "74.48333"
+    },
+    {
+        "city": "Кодинск",
+        "latitude": "58.6",
+        "longitude": "99.18333"
+    },
+    {
+        "city": "Козельск",
+        "latitude": "54.03333",
+        "longitude": "35.78333"
+    },
+    {
+        "city": "Козловка",
+        "latitude": "55.83333",
+        "longitude": "48.25"
+    },
+    {
+        "city": "Козьмодемьянск",
+        "latitude": "56.33333",
+        "longitude": "46.56667"
+    },
+    {
+        "city": "Кола",
+        "latitude": "68.88306",
+        "longitude": "33.02194"
+    },
+    {
+        "city": "Кологрив",
+        "latitude": "58.8252278",
+        "longitude": "44.311444"
+    },
+    {
+        "city": "Коломна",
+        "latitude": "55.09389",
+        "longitude": "38.76806"
+    },
+    {
+        "city": "Колпашево",
+        "latitude": "58.31667",
+        "longitude": "82.91667"
+    },
+    {
+        "city": "Колпино",
+        "latitude": "59.75",
+        "longitude": "30.6"
+    },
+    {
+        "city": "Колтуши",
+        "latitude": "59.932919",
+        "longitude": "30.655377"
+    },
+    {
+        "city": "Кольчугино",
+        "latitude": "56.3",
+        "longitude": "39.38333"
+    },
+    {
+        "city": "Коммунар",
+        "latitude": "59.621609",
+        "longitude": "30.393483"
+    },
+    {
+        "city": "Комсомольск-на-Амуре",
+        "latitude": "50.55",
+        "longitude": "137"
+    },
+    {
+        "city": "Комсомольск",
+        "latitude": "57.03333",
+        "longitude": "40.38333"
+    },
+    {
+        "city": "Конаково",
+        "latitude": "56.7",
+        "longitude": "36.76667"
+    },
+    {
+        "city": "Кондопога",
+        "latitude": "62.2",
+        "longitude": "34.26667"
+    },
+    {
+        "city": "Кондрово",
+        "latitude": "54.8",
+        "longitude": "35.93333"
+    },
+    {
+        "city": "Константиновск",
+        "latitude": "47.58333",
+        "longitude": "41.1"
+    },
+    {
+        "city": "Копейск",
+        "latitude": "55.1",
+        "longitude": "61.61667"
+    },
+    {
+        "city": "Кораблино",
+        "latitude": "53.91667",
+        "longitude": "40.01667"
+    },
+    {
+        "city": "Кореновск",
+        "latitude": "45.46667",
+        "longitude": "39.45"
+    },
+    {
+        "city": "Коркино",
+        "latitude": "54.88333",
+        "longitude": "61.4"
+    },
+    {
+        "city": "Королёв",
+        "latitude": "55.91667",
+        "longitude": "37.81667"
+    },
+    {
+        "city": "Короча",
+        "latitude": "50.81361",
+        "longitude": "37.18139"
+    },
+    {
+        "city": "Корсаков",
+        "latitude": "46.63333",
+        "longitude": "142.76667"
+    },
+    {
+        "city": "Коряжма",
+        "latitude": "61.3",
+        "longitude": "47.16667"
+    },
+    {
+        "city": "Костерёво",
+        "latitude": "55.93333",
+        "longitude": "39.63333"
+    },
+    {
+        "city": "Костомукша",
+        "latitude": "64.58333",
+        "longitude": "30.6"
+    },
+    {
+        "city": "Кострома",
+        "latitude": "57.76667",
+        "longitude": "40.93333"
+    },
+    {
+        "city": "Котельники",
+        "latitude": "55.6625",
+        "longitude": "37.86722"
+    },
+    {
+        "city": "Котельниково",
+        "latitude": "47.63333",
+        "longitude": "43.13333"
+    },
+    {
+        "city": "Котельнич",
+        "latitude": "58.3",
+        "longitude": "48.33333"
+    },
+    {
+        "city": "Котлас",
+        "latitude": "61.25",
+        "longitude": "46.65"
+    },
+    {
+        "city": "Котово",
+        "latitude": "50.31667",
+        "longitude": "44.8"
+    },
+    {
+        "city": "Котовск",
+        "latitude": "52.58333",
+        "longitude": "41.5"
+    },
+    {
+        "city": "Кохма",
+        "latitude": "56.93333",
+        "longitude": "41.08333"
+    },
+    {
+        "city": "Красавино",
+        "latitude": "60.96667",
+        "longitude": "46.48333"
+    },
+    {
+        "city": "Красноармейск",
+        "latitude": "56.12278",
+        "longitude": "38.14611"
+    },
+    {
+        "city": "Красновишерск",
+        "latitude": "60.4",
+        "longitude": "57.06667"
+    },
+    {
+        "city": "Красногорск",
+        "latitude": "55.81667",
+        "longitude": "37.33333"
+    },
+    {
+        "city": "Краснодар",
+        "latitude": "45.03333",
+        "longitude": "38.98333"
+    },
+    {
+        "city": "Красное Село",
+        "latitude": "59.733745",
+        "longitude": "30.086205"
+    },
+    {
+        "city": "Краснозаводск",
+        "latitude": "56.43806",
+        "longitude": "38.22944"
+    },
+    {
+        "city": "Краснознаменск",
+        "latitude": "54.95",
+        "longitude": "22.5"
+    },
+    {
+        "city": "Краснокаменск",
+        "latitude": "50.1",
+        "longitude": "118.03333"
+    },
+    {
+        "city": "Краснокамск",
+        "latitude": "58.08333",
+        "longitude": "55.75"
+    },
+    {
+        "city": "Красноперекопск",
+        "latitude": "45.955306",
+        "longitude": "33.795"
+    },
+    {
+        "city": "Краснослободск",
+        "latitude": "48.7",
+        "longitude": "44.566666666667"
+    },
+    {
+        "city": "Краснотурьинск",
+        "latitude": "59.76667",
+        "longitude": "60.2"
+    },
+    {
+        "city": "Красноуральск",
+        "latitude": "58.35",
+        "longitude": "60.05"
+    },
+    {
+        "city": "Красноуфимск",
+        "latitude": "56.61667",
+        "longitude": "57.76667"
+    },
+    {
+        "city": "Красноярск",
+        "latitude": "56.012083",
+        "longitude": "92.871295"
+    },
+    {
+        "city": "Красный Кут",
+        "latitude": "50.95",
+        "longitude": "46.96667"
+    },
+    {
+        "city": "Красный Сулин",
+        "latitude": "47.88333",
+        "longitude": "40.06667"
+    },
+    {
+        "city": "Красный Холм",
+        "latitude": "58.06329",
+        "longitude": "37.122983"
+    },
+    {
+        "city": "Кремёнки",
+        "latitude": "54.88917",
+        "longitude": "37.12333"
+    },
+    {
+        "city": "Кронштадт",
+        "latitude": "60",
+        "longitude": "29.76667"
+    },
+    {
+        "city": "Кропоткин",
+        "latitude": "45.43333",
+        "longitude": "40.56667"
+    },
+    {
+        "city": "Крымск",
+        "latitude": "44.93333",
+        "longitude": "38"
+    },
+    {
+        "city": "Кстово",
+        "latitude": "56.15167",
+        "longitude": "44.19556"
+    },
+    {
+        "city": "Кубинка",
+        "latitude": "55.57639",
+        "longitude": "36.69472"
+    },
+    {
+        "city": "Кувандык",
+        "latitude": "51.48333",
+        "longitude": "57.35"
+    },
+    {
+        "city": "Кувшиново",
+        "latitude": "57.03333",
+        "longitude": "34.16667"
+    },
+    {
+        "city": "Кудрово",
+        "latitude": "59.908489",
+        "longitude": "30.513569"
+    },
+    {
+        "city": "Кудымкар",
+        "latitude": "59.01667",
+        "longitude": "54.66667"
+    },
+    {
+        "city": "Кузнецк",
+        "latitude": "53.11667",
+        "longitude": "46.6"
+    },
+    {
+        "city": "Куйбышев",
+        "latitude": "55.45028",
+        "longitude": "78.3075"
+    },
+    {
+        "city": "Кукмор",
+        "latitude": "56.1825",
+        "longitude": "50.90639"
+    },
+    {
+        "city": "Кулебаки",
+        "latitude": "55.41667",
+        "longitude": "42.51667"
+    },
+    {
+        "city": "Кумертау",
+        "latitude": "52.76667",
+        "longitude": "55.78333"
+    },
+    {
+        "city": "Кунгур",
+        "latitude": "57.43333",
+        "longitude": "56.93333"
+    },
+    {
+        "city": "Купино",
+        "latitude": "54.36667",
+        "longitude": "77.3"
+    },
+    {
+        "city": "Курган",
+        "latitude": "55.44083",
+        "longitude": "65.34111"
+    },
+    {
+        "city": "Курганинск",
+        "latitude": "44.88333",
+        "longitude": "40.6"
+    },
+    {
+        "city": "Курильск",
+        "latitude": "45.25",
+        "longitude": "147.883333"
+    },
+    {
+        "city": "Курлово",
+        "latitude": "55.45",
+        "longitude": "40.61667"
+    },
+    {
+        "city": "Куровское",
+        "latitude": "55.58333",
+        "longitude": "38.91667"
+    },
+    {
+        "city": "Курск",
+        "latitude": "51.71667",
+        "longitude": "36.18333"
+    },
+    {
+        "city": "Куртамыш",
+        "latitude": "54.9",
+        "longitude": "64.43333"
+    },
+    {
+        "city": "Курчалой",
+        "latitude": "43.20444",
+        "longitude": "46.087812"
+    },
+    {
+        "city": "Курчатов",
+        "latitude": "51.66667",
+        "longitude": "35.65"
+    },
+    {
+        "city": "Куса",
+        "latitude": "55.33333",
+        "longitude": "59.43333"
+    },
+    {
+        "city": "Кушва",
+        "latitude": "58.28333",
+        "longitude": "59.73333"
+    },
+    {
+        "city": "Кызыл",
+        "latitude": "51.7",
+        "longitude": "94.36667"
+    },
+    {
+        "city": "Кыштым",
+        "latitude": "55.7",
+        "longitude": "60.55"
+    },
+    {
+        "city": "Кяхта",
+        "latitude": "50.35",
+        "longitude": "106.45"
+    },
+    {
+        "city": "Лабинск",
+        "latitude": "44.633338",
+        "longitude": "40.733311"
+    },
+    {
+        "city": "Лабытнанги",
+        "latitude": "66.65806",
+        "longitude": "66.38389"
+    },
+    {
+        "city": "Лагань",
+        "latitude": "45.3925",
+        "longitude": "47.355"
+    },
+    {
+        "city": "Ладушкин",
+        "latitude": "54.56667",
+        "longitude": "20.16667"
+    },
+    {
+        "city": "Лаишево",
+        "latitude": "55.4",
+        "longitude": "49.55"
+    },
+    {
+        "city": "Лакинск",
+        "latitude": "56.01694",
+        "longitude": "39.94944"
+    },
+    {
+        "city": "Лангепас",
+        "latitude": "61.25",
+        "longitude": "75.16667"
+    },
+    {
+        "city": "Лахденпохья",
+        "latitude": "61.51667",
+        "longitude": "30.2"
+    },
+    {
+        "city": "Лебедянь",
+        "latitude": "53.0115528",
+        "longitude": "39.1281167"
+    },
+    {
+        "city": "Лениногорск",
+        "latitude": "54.5988694",
+        "longitude": "52.4422722"
+    },
+    {
+        "city": "Ленинск-Кузнецкий",
+        "latitude": "54.65",
+        "longitude": "86.16667"
+    },
+    {
+        "city": "Ленинск",
+        "latitude": "48.7",
+        "longitude": "45.2"
+    },
+    {
+        "city": "Ленск",
+        "latitude": "60.71667",
+        "longitude": "114.9"
+    },
+    {
+        "city": "Лермонтов",
+        "latitude": "44.10528",
+        "longitude": "42.97167"
+    },
+    {
+        "city": "Лесной",
+        "latitude": "58.63333",
+        "longitude": "59.78333"
+    },
+    {
+        "city": "Лесозаводск",
+        "latitude": "45.46667",
+        "longitude": "133.4"
+    },
+    {
+        "city": "Лесосибирск",
+        "latitude": "58.23333",
+        "longitude": "92.48333"
+    },
+    {
+        "city": "Ливны",
+        "latitude": "52.425306",
+        "longitude": "37.608306"
+    },
+    {
+        "city": "Ликино-Дулёво",
+        "latitude": "55.71528",
+        "longitude": "38.95778"
+    },
+    {
+        "city": "Липецк",
+        "latitude": "52.61667",
+        "longitude": "39.6"
+    },
+    {
+        "city": "Липки",
+        "latitude": "53.95",
+        "longitude": "37.7"
+    },
+    {
+        "city": "Лиски",
+        "latitude": "50.98222",
+        "longitude": "39.49944"
+    },
+    {
+        "city": "Лихославль",
+        "latitude": "57.11667",
+        "longitude": "35.46667"
+    },
+    {
+        "city": "Лобня",
+        "latitude": "56.01194",
+        "longitude": "37.47444"
+    },
+    {
+        "city": "Лодейное Поле",
+        "latitude": "60.734305",
+        "longitude": "33.543183"
+    },
+    {
+        "city": "Ломоносов",
+        "latitude": "59.91074",
+        "longitude": "29.776466"
+    },
+    {
+        "city": "Лосино-Петровский",
+        "latitude": "55.86667",
+        "longitude": "38.2"
+    },
+    {
+        "city": "Луга",
+        "latitude": "58.733333333333",
+        "longitude": "29.85"
+    },
+    {
+        "city": "Луза",
+        "latitude": "60.61667",
+        "longitude": "47.28333"
+    },
+    {
+        "city": "Лукоянов",
+        "latitude": "55.03833",
+        "longitude": "44.49778"
+    },
+    {
+        "city": "Луховицы",
+        "latitude": "54.96667",
+        "longitude": "39.025"
+    },
+    {
+        "city": "Лысково",
+        "latitude": "56.01278",
+        "longitude": "45.02528"
+    },
+    {
+        "city": "Лысьва",
+        "latitude": "58.1003806",
+        "longitude": "57.8043278"
+    },
+    {
+        "city": "Лыткарино",
+        "latitude": "55.58361",
+        "longitude": "37.90556"
+    },
+    {
+        "city": "Льгов",
+        "latitude": "51.66667",
+        "longitude": "35.26667"
+    },
+    {
+        "city": "Любань",
+        "latitude": "59.349301",
+        "longitude": "31.24858"
+    },
+    {
+        "city": "Люберцы",
+        "latitude": "55.68139",
+        "longitude": "37.89389"
+    },
+    {
+        "city": "Любим",
+        "latitude": "58.35",
+        "longitude": "40.7"
+    },
+    {
+        "city": "Людиново",
+        "latitude": "53.86667",
+        "longitude": "34.46667"
+    },
+    {
+        "city": "Лянтор",
+        "latitude": "61.61667",
+        "longitude": "72.16667"
+    },
+    {
+        "city": "Магадан",
+        "latitude": "59.56667",
+        "longitude": "150.8"
+    },
+    {
+        "city": "Магас",
+        "latitude": "43.16667",
+        "longitude": "44.81667"
+    },
+    {
+        "city": "Магнитогорск",
+        "latitude": "53.38333",
+        "longitude": "59.03333"
+    },
+    {
+        "city": "Майкоп",
+        "latitude": "44.611",
+        "longitude": "40.111"
+    },
+    {
+        "city": "Майский",
+        "latitude": "43.630508",
+        "longitude": "44.067733"
+    },
+    {
+        "city": "Макаров",
+        "latitude": "48.61667",
+        "longitude": "142.78333"
+    },
+    {
+        "city": "Макарьев",
+        "latitude": "57.88333",
+        "longitude": "43.8"
+    },
+    {
+        "city": "Макушино",
+        "latitude": "55.2",
+        "longitude": "67.25"
+    },
+    {
+        "city": "Малая Вишера",
+        "latitude": "58.85",
+        "longitude": "32.21667"
+    },
+    {
+        "city": "Малгобек",
+        "latitude": "43.508882",
+        "longitude": "44.585563"
+    },
+    {
+        "city": "Малмыж",
+        "latitude": "56.52278",
+        "longitude": "50.68083"
+    },
+    {
+        "city": "Малоархангельск",
+        "latitude": "52.4",
+        "longitude": "36.5"
+    },
+    {
+        "city": "Малоярославец",
+        "latitude": "55",
+        "longitude": "36.46667"
+    },
+    {
+        "city": "Мамадыш",
+        "latitude": "55.7",
+        "longitude": "51.4"
+    },
+    {
+        "city": "Мамоново",
+        "latitude": "54.46667",
+        "longitude": "19.93333"
+    },
+    {
+        "city": "Мантурово",
+        "latitude": "58.33333",
+        "longitude": "44.76667"
+    },
+    {
+        "city": "Мариинск",
+        "latitude": "56.21667",
+        "longitude": "87.75"
+    },
+    {
+        "city": "Мариинский Посад",
+        "latitude": "56.11667",
+        "longitude": "47.71667"
+    },
+    {
+        "city": "Маркс",
+        "latitude": "51.7",
+        "longitude": "46.75"
+    },
+    {
+        "city": "Махачкала",
+        "latitude": "42.98333",
+        "longitude": "47.5"
+    },
+    {
+        "city": "Мглин",
+        "latitude": "53.06111",
+        "longitude": "32.84833"
+    },
+    {
+        "city": "Мегион",
+        "latitude": "61.033055555556",
+        "longitude": "76.109722222222"
+    },
+    {
+        "city": "Медвежьегорск",
+        "latitude": "62.91667",
+        "longitude": "34.45"
+    },
+    {
+        "city": "Медногорск",
+        "latitude": "51.422085",
+        "longitude": "57.595296"
+    },
+    {
+        "city": "Медынь",
+        "latitude": "54.96667",
+        "longitude": "35.86667"
+    },
+    {
+        "city": "Межгорье",
+        "latitude": "54.24167",
+        "longitude": "57.96778"
+    },
+    {
+        "city": "Междуреченск",
+        "latitude": "53.68333",
+        "longitude": "88.05"
+    },
+    {
+        "city": "Мезень",
+        "latitude": "65.85",
+        "longitude": "44.23333"
+    },
+    {
+        "city": "Меленки",
+        "latitude": "55.33333",
+        "longitude": "41.63333"
+    },
+    {
+        "city": "Мелеуз",
+        "latitude": "52.95",
+        "longitude": "55.93333"
+    },
+    {
+        "city": "Менделеевск",
+        "latitude": "55.9",
+        "longitude": "52.316666666667"
+    },
+    {
+        "city": "Мензелинск",
+        "latitude": "55.71667",
+        "longitude": "53.08333"
+    },
+    {
+        "city": "Мещовск",
+        "latitude": "54.31667",
+        "longitude": "35.28333"
+    },
+    {
+        "city": "Миасс",
+        "latitude": "55.05",
+        "longitude": "60.1"
+    },
+    {
+        "city": "Микунь",
+        "latitude": "62.35",
+        "longitude": "50.06667"
+    },
+    {
+        "city": "Миллерово",
+        "latitude": "48.91667",
+        "longitude": "40.4"
+    },
+    {
+        "city": "Минеральные Воды",
+        "latitude": "44.20083",
+        "longitude": "43.1125"
+    },
+    {
+        "city": "Минусинск",
+        "latitude": "53.7",
+        "longitude": "91.68333"
+    },
+    {
+        "city": "Миньяр",
+        "latitude": "55.06667",
+        "longitude": "57.55"
+    },
+    {
+        "city": "Мирный",
+        "latitude": "62.76028",
+        "longitude": "40.33528"
+    },
+    {
+        "city": "Михайлов",
+        "latitude": "54.23333",
+        "longitude": "39.03333"
+    },
+    {
+        "city": "Михайловка",
+        "latitude": "50.06667",
+        "longitude": "43.23333"
+    },
+    {
+        "city": "Михайловск",
+        "latitude": "56.43333",
+        "longitude": "59.11667"
+    },
+    {
+        "city": "Мичуринск",
+        "latitude": "52.89222",
+        "longitude": "40.49278"
+    },
+    {
+        "city": "Могоча",
+        "latitude": "53.73333",
+        "longitude": "119.76667"
+    },
+    {
+        "city": "Можайск",
+        "latitude": "55.5",
+        "longitude": "36.03333"
+    },
+    {
+        "city": "Можга",
+        "latitude": "56.45",
+        "longitude": "52.21667"
+    },
+    {
+        "city": "Моздок",
+        "latitude": "43.736575",
+        "longitude": "44.652834"
+    },
+    {
+        "city": "Мончегорск",
+        "latitude": "67.93944",
+        "longitude": "32.91556"
+    },
+    {
+        "city": "Морозовск",
+        "latitude": "48.35",
+        "longitude": "41.833333333333"
+    },
+    {
+        "city": "Моршанск",
+        "latitude": "53.45",
+        "longitude": "41.8"
+    },
+    {
+        "city": "Мосальск",
+        "latitude": "54.48333",
+        "longitude": "34.98333"
+    },
+    {
+        "city": "Москва",
+        "latitude": "55.755833333333",
+        "longitude": "37.617777777778"
+    },
+    {
+        "city": "Московский",
+        "latitude": "55.6",
+        "longitude": "37.35"
+    },
+    {
+        "city": "Муравленко",
+        "latitude": "63.79444",
+        "longitude": "74.49722"
+    },
+    {
+        "city": "Мураши",
+        "latitude": "59.38333",
+        "longitude": "48.96667"
+    },
+    {
+        "city": "Мурино",
+        "latitude": "60.051284",
+        "longitude": "30.438578"
+    },
+    {
+        "city": "Мурманск",
+        "latitude": "68.96667",
+        "longitude": "33.08333"
+    },
+    {
+        "city": "Муром",
+        "latitude": "55.5725",
+        "longitude": "42.05139"
+    },
+    {
+        "city": "Мценск",
+        "latitude": "53.27833",
+        "longitude": "36.575"
+    },
+    {
+        "city": "Мыски",
+        "latitude": "53.7",
+        "longitude": "87.81667"
+    },
+    {
+        "city": "Мытищи",
+        "latitude": "55.91667",
+        "longitude": "37.73333"
+    },
+    {
+        "city": "Мышкин",
+        "latitude": "57.78333",
+        "longitude": "38.45"
+    },
+    {
+        "city": "Набережные Челны",
+        "latitude": "55.7",
+        "longitude": "52.33333"
+    },
+    {
+        "city": "Навашино",
+        "latitude": "55.53333",
+        "longitude": "42.2"
+    },
+    {
+        "city": "Наволоки",
+        "latitude": "57.46667",
+        "longitude": "41.96667"
+    },
+    {
+        "city": "Надым",
+        "latitude": "65.53333",
+        "longitude": "72.51667"
+    },
+    {
+        "city": "Назарово",
+        "latitude": "56.00639",
+        "longitude": "90.39139"
+    },
+    {
+        "city": "Назрань",
+        "latitude": "43.21667",
+        "longitude": "44.76667"
+    },
+    {
+        "city": "Называевск",
+        "latitude": "55.56667",
+        "longitude": "71.35"
+    },
+    {
+        "city": "Нальчик",
+        "latitude": "43.485259",
+        "longitude": "43.607072"
+    },
+    {
+        "city": "Нариманов",
+        "latitude": "46.68333",
+        "longitude": "47.85"
+    },
+    {
+        "city": "Наро-Фоминск",
+        "latitude": "55.38333",
+        "longitude": "36.73333"
+    },
+    {
+        "city": "Нарткала",
+        "latitude": "43.556734",
+        "longitude": "43.862222"
+    },
+    {
+        "city": "Нарьян-Мар",
+        "latitude": "67.63778",
+        "longitude": "53.00667"
+    },
+    {
+        "city": "Находка",
+        "latitude": "42.81667",
+        "longitude": "132.88333"
+    },
+    {
+        "city": "Невель",
+        "latitude": "56.01667",
+        "longitude": "29.93333"
+    },
+    {
+        "city": "Невельск",
+        "latitude": "46.65",
+        "longitude": "141.86667"
+    },
+    {
+        "city": "Невинномысск",
+        "latitude": "44.63333",
+        "longitude": "41.93333"
+    },
+    {
+        "city": "Невьянск",
+        "latitude": "57.48333",
+        "longitude": "60.2"
+    },
+    {
+        "city": "Нелидово",
+        "latitude": "56.21667",
+        "longitude": "32.78333"
+    },
+    {
+        "city": "Неман",
+        "latitude": "55.03333",
+        "longitude": "22.03333"
+    },
+    {
+        "city": "Нерехта",
+        "latitude": "57.45",
+        "longitude": "40.58333"
+    },
+    {
+        "city": "Нерчинск",
+        "latitude": "51.98333",
+        "longitude": "116.58333"
+    },
+    {
+        "city": "Нерюнгри",
+        "latitude": "56.65833",
+        "longitude": "124.725"
+    },
+    {
+        "city": "Нестеров",
+        "latitude": "54.63333",
+        "longitude": "22.56667"
+    },
+    {
+        "city": "Нефтегорск",
+        "latitude": "52.8",
+        "longitude": "51.16667"
+    },
+    {
+        "city": "Нефтекамск",
+        "latitude": "56.08889",
+        "longitude": "54.24639"
+    },
+    {
+        "city": "Нефтекумск",
+        "latitude": "44.75056",
+        "longitude": "44.97972"
+    },
+    {
+        "city": "Нефтеюганск",
+        "latitude": "61.1",
+        "longitude": "72.6"
+    },
+    {
+        "city": "Нея",
+        "latitude": "58.29444",
+        "longitude": "43.87806"
+    },
+    {
+        "city": "Нижневартовск",
+        "latitude": "60.93389",
+        "longitude": "76.58111"
+    },
+    {
+        "city": "Нижнекамск",
+        "latitude": "55.63333",
+        "longitude": "51.81667"
+    },
+    {
+        "city": "Нижнеудинск",
+        "latitude": "54.9",
+        "longitude": "99.01667"
+    },
+    {
+        "city": "Нижние Серги",
+        "latitude": "56.66667",
+        "longitude": "59.3"
+    },
+    {
+        "city": "Нижний Ломов",
+        "latitude": "53.53333",
+        "longitude": "43.68333"
+    },
+    {
+        "city": "Нижний Новгород",
+        "latitude": "56.32694",
+        "longitude": "44.0075"
+    },
+    {
+        "city": "Нижний Тагил",
+        "latitude": "57.91667",
+        "longitude": "59.96667"
+    },
+    {
+        "city": "Нижняя Салда",
+        "latitude": "58.08333",
+        "longitude": "60.71667"
+    },
+    {
+        "city": "Нижняя Тура",
+        "latitude": "58.62083",
+        "longitude": "59.84778"
+    },
+    {
+        "city": "Николаевск-на-Амуре",
+        "latitude": "53.15",
+        "longitude": "140.73333"
+    },
+    {
+        "city": "Николаевск",
+        "latitude": "50.02722",
+        "longitude": "45.46306"
+    },
+    {
+        "city": "Никольск",
+        "latitude": "59.53333",
+        "longitude": "45.45"
+    },
+    {
+        "city": "Никольское",
+        "latitude": "59.704642",
+        "longitude": "30.788975"
+    },
+    {
+        "city": "Новая Ладога",
+        "latitude": "60.106401",
+        "longitude": "32.316183"
+    },
+    {
+        "city": "Новая Ляля",
+        "latitude": "59.05",
+        "longitude": "60.6"
+    },
+    {
+        "city": "Новоалександровск",
+        "latitude": "45.49333",
+        "longitude": "41.21694"
+    },
+    {
+        "city": "Новоалтайск",
+        "latitude": "53.4",
+        "longitude": "83.93333"
+    },
+    {
+        "city": "Новоаннинский",
+        "latitude": "50.51667",
+        "longitude": "42.66667"
+    },
+    {
+        "city": "Нововоронеж",
+        "latitude": "51.31667",
+        "longitude": "39.21667"
+    },
+    {
+        "city": "Новодвинск",
+        "latitude": "64.41667",
+        "longitude": "40.81667"
+    },
+    {
+        "city": "Новозыбков",
+        "latitude": "52.53333",
+        "longitude": "31.93333"
+    },
+    {
+        "city": "Новокубанск",
+        "latitude": "45.1",
+        "longitude": "41.05"
+    },
+    {
+        "city": "Новокузнецк",
+        "latitude": "53.73333",
+        "longitude": "87.08333"
+    },
+    {
+        "city": "Новокуйбышевск",
+        "latitude": "53.1",
+        "longitude": "49.91667"
+    },
+    {
+        "city": "Новомичуринск",
+        "latitude": "54.03333",
+        "longitude": "39.75"
+    },
+    {
+        "city": "Новомосковск",
+        "latitude": "54.03333",
+        "longitude": "38.26667"
+    },
+    {
+        "city": "Новопавловск",
+        "latitude": "43.96361",
+        "longitude": "43.63944"
+    },
+    {
+        "city": "Новоржев",
+        "latitude": "57.03333",
+        "longitude": "29.33333"
+    },
+    {
+        "city": "Новороссийск",
+        "latitude": "44.71667",
+        "longitude": "37.76667"
+    },
+    {
+        "city": "Новосибирск",
+        "latitude": "55.01667",
+        "longitude": "82.91667"
+    },
+    {
+        "city": "Новосиль",
+        "latitude": "52.96667",
+        "longitude": "37.05"
+    },
+    {
+        "city": "Новосокольники",
+        "latitude": "56.33333",
+        "longitude": "30.15"
+    },
+    {
+        "city": "Новотроицк",
+        "latitude": "51.20667",
+        "longitude": "58.32806"
+    },
+    {
+        "city": "Новоузенск",
+        "latitude": "50.45",
+        "longitude": "48.15"
+    },
+    {
+        "city": "Новоульяновск",
+        "latitude": "54.15",
+        "longitude": "48.38333"
+    },
+    {
+        "city": "Новоуральск",
+        "latitude": "57.25",
+        "longitude": "60.08333"
+    },
+    {
+        "city": "Новохопёрск",
+        "latitude": "51.1",
+        "longitude": "41.61667"
+    },
+    {
+        "city": "Новочебоксарск",
+        "latitude": "56.12194",
+        "longitude": "47.4925"
+    },
+    {
+        "city": "Новочеркасск",
+        "latitude": "47.43583",
+        "longitude": "40.09861"
+    },
+    {
+        "city": "Новошахтинск",
+        "latitude": "47.76667",
+        "longitude": "39.91667"
+    },
+    {
+        "city": "Новый Оскол",
+        "latitude": "50.76667",
+        "longitude": "37.86667"
+    },
+    {
+        "city": "Новый Уренгой",
+        "latitude": "66.08472",
+        "longitude": "76.67889"
+    },
+    {
+        "city": "Ногинск",
+        "latitude": "55.85",
+        "longitude": "38.43333"
+    },
+    {
+        "city": "Нолинск",
+        "latitude": "57.55722",
+        "longitude": "49.93417"
+    },
+    {
+        "city": "Норильск",
+        "latitude": "69.33333",
+        "longitude": "88.21667"
+    },
+    {
+        "city": "Ноябрьск",
+        "latitude": "63.20167",
+        "longitude": "75.45167"
+    },
+    {
+        "city": "Нурлат",
+        "latitude": "54.43333",
+        "longitude": "50.8"
+    },
+    {
+        "city": "Нытва",
+        "latitude": "57.93333",
+        "longitude": "55.33333"
+    },
+    {
+        "city": "Нюрба",
+        "latitude": "63.28333",
+        "longitude": "118.33333"
+    },
+    {
+        "city": "Нягань",
+        "latitude": "62.13333",
+        "longitude": "65.38333"
+    },
+    {
+        "city": "Нязепетровск",
+        "latitude": "56.05",
+        "longitude": "59.6"
+    },
+    {
+        "city": "Няндома",
+        "latitude": "61.666666666667",
+        "longitude": "40.2"
+    },
+    {
+        "city": "Облучье",
+        "latitude": "49",
+        "longitude": "131.05"
+    },
+    {
+        "city": "Обнинск",
+        "latitude": "55.1",
+        "longitude": "36.61667"
+    },
+    {
+        "city": "Обоянь",
+        "latitude": "51.21111",
+        "longitude": "36.27639"
+    },
+    {
+        "city": "Обь",
+        "latitude": "54.99167",
+        "longitude": "82.7125"
+    },
+    {
+        "city": "Одинцово",
+        "latitude": "55.67333",
+        "longitude": "37.27333"
+    },
+    {
+        "city": "Озёрск",
+        "latitude": "54.41667",
+        "longitude": "22.01667"
+    },
+    {
+        "city": "Озёры",
+        "latitude": "54.857875",
+        "longitude": "38.5438194"
+    },
+    {
+        "city": "Октябрьск",
+        "latitude": "53.16667",
+        "longitude": "48.66667"
+    },
+    {
+        "city": "Октябрьский",
+        "latitude": "54.48333",
+        "longitude": "53.48333"
+    },
+    {
+        "city": "Окуловка",
+        "latitude": "58.38333",
+        "longitude": "33.3"
+    },
+    {
+        "city": "Оленегорск",
+        "latitude": "68.15",
+        "longitude": "33.28333"
+    },
+    {
+        "city": "Олонец",
+        "latitude": "60.98333",
+        "longitude": "32.96667"
+    },
+    {
+        "city": "Олёкминск",
+        "latitude": "60.38333",
+        "longitude": "120.43333"
+    },
+    {
+        "city": "Омск",
+        "latitude": "54.96667",
+        "longitude": "73.38333"
+    },
+    {
+        "city": "Омутнинск",
+        "latitude": "58.66667",
+        "longitude": "52.18333"
+    },
+    {
+        "city": "Онега",
+        "latitude": "63.91667",
+        "longitude": "38.08333"
+    },
+    {
+        "city": "Опочка",
+        "latitude": "56.71667",
+        "longitude": "28.65"
+    },
+    {
+        "city": "Оренбург",
+        "latitude": "51.76667",
+        "longitude": "55.1"
+    },
+    {
+        "city": "Орехово-Зуево",
+        "latitude": "55.8",
+        "longitude": "38.96667"
+    },
+    {
+        "city": "Орлов",
+        "latitude": "58.53889",
+        "longitude": "48.89861"
+    },
+    {
+        "city": "Орск",
+        "latitude": "51.2",
+        "longitude": "58.61667"
+    },
+    {
+        "city": "Орёл",
+        "latitude": "52.96667",
+        "longitude": "36.08333"
+    },
+    {
+        "city": "Оса",
+        "latitude": "57.28333",
+        "longitude": "55.45"
+    },
+    {
+        "city": "Осинники",
+        "latitude": "53.61667",
+        "longitude": "87.33333"
+    },
+    {
+        "city": "Осташков",
+        "latitude": "57.15",
+        "longitude": "33.1"
+    },
+    {
+        "city": "Остров",
+        "latitude": "57.33333",
+        "longitude": "28.35"
+    },
+    {
+        "city": "Островной",
+        "latitude": "68.05306",
+        "longitude": "39.51306"
+    },
+    {
+        "city": "Острогожск",
+        "latitude": "50.86667",
+        "longitude": "39.06667"
+    },
+    {
+        "city": "Отрадное",
+        "latitude": "59.77409",
+        "longitude": "30.794553"
+    },
+    {
+        "city": "Отрадный",
+        "latitude": "53.36667",
+        "longitude": "51.35"
+    },
+    {
+        "city": "Оха",
+        "latitude": "53.58333",
+        "longitude": "142.95"
+    },
+    {
+        "city": "Оханск",
+        "latitude": "57.71667",
+        "longitude": "55.38333"
+    },
+    {
+        "city": "Очёр",
+        "latitude": "57.88333",
+        "longitude": "54.71667"
+    },
+    {
+        "city": "Павлово",
+        "latitude": "55.96194",
+        "longitude": "43.09"
+    },
+    {
+        "city": "Павловск",
+        "latitude": "50.45",
+        "longitude": "40.06667"
+    },
+    {
+        "city": "Павловский Посад",
+        "latitude": "55.78333",
+        "longitude": "38.65"
+    },
+    {
+        "city": "Палласовка",
+        "latitude": "50.05",
+        "longitude": "46.88333"
+    },
+    {
+        "city": "Партизанск",
+        "latitude": "43.13333",
+        "longitude": "133.13333"
+    },
+    {
+        "city": "Певек",
+        "latitude": "69.7",
+        "longitude": "170.31667"
+    },
+    {
+        "city": "Пенза",
+        "latitude": "53.2",
+        "longitude": "45"
+    },
+    {
+        "city": "Первомайск",
+        "latitude": "54.86667",
+        "longitude": "43.8"
+    },
+    {
+        "city": "Первоуральск",
+        "latitude": "56.91667",
+        "longitude": "59.95"
+    },
+    {
+        "city": "Перевоз",
+        "latitude": "55.6",
+        "longitude": "44.55"
+    },
+    {
+        "city": "Пересвет",
+        "latitude": "56.41667",
+        "longitude": "38.175"
+    },
+    {
+        "city": "Переславль-Залесский",
+        "latitude": "56.7381333",
+        "longitude": "38.8561528"
+    },
+    {
+        "city": "Пермь",
+        "latitude": "58.01389",
+        "longitude": "56.24889"
+    },
+    {
+        "city": "Пестово",
+        "latitude": "58.6",
+        "longitude": "35.81667"
+    },
+    {
+        "city": "Петергоф",
+        "latitude": "59.88333",
+        "longitude": "29.9"
+    },
+    {
+        "city": "Петров Вал",
+        "latitude": "50.13333",
+        "longitude": "45.21667"
+    },
+    {
+        "city": "Петровск-Забайкальский",
+        "latitude": "51.28333",
+        "longitude": "108.83333"
+    },
+    {
+        "city": "Петровск",
+        "latitude": "52.31667",
+        "longitude": "45.38333"
+    },
+    {
+        "city": "Петрозаводск",
+        "latitude": "61.79611",
+        "longitude": "34.34917"
+    },
+    {
+        "city": "Петропавловск-Камчатский",
+        "latitude": "53.01667",
+        "longitude": "158.65"
+    },
+    {
+        "city": "Петухово",
+        "latitude": "55.06667",
+        "longitude": "67.88333"
+    },
+    {
+        "city": "Петушки",
+        "latitude": "55.93333",
+        "longitude": "39.46667"
+    },
+    {
+        "city": "Печора",
+        "latitude": "65.11667",
+        "longitude": "57.11667"
+    },
+    {
+        "city": "Печоры",
+        "latitude": "57.81667",
+        "longitude": "27.6"
+    },
+    {
+        "city": "Пикалёво",
+        "latitude": "59.512684",
+        "longitude": "34.177483"
+    },
+    {
+        "city": "Пионерский",
+        "latitude": "54.95",
+        "longitude": "20.21667"
+    },
+    {
+        "city": "Питкяранта",
+        "latitude": "61.56667",
+        "longitude": "31.48333"
+    },
+    {
+        "city": "Плавск",
+        "latitude": "53.7",
+        "longitude": "37.3"
+    },
+    {
+        "city": "Пласт",
+        "latitude": "54.36667",
+        "longitude": "60.81667"
+    },
+    {
+        "city": "Плёс",
+        "latitude": "57.45",
+        "longitude": "41.5"
+    },
+    {
+        "city": "Поворино",
+        "latitude": "51.2",
+        "longitude": "42.25"
+    },
+    {
+        "city": "Подольск",
+        "latitude": "55.42972",
+        "longitude": "37.54444"
+    },
+    {
+        "city": "Подпорожье",
+        "latitude": "60.912097",
+        "longitude": "34.167952"
+    },
+    {
+        "city": "Покачи",
+        "latitude": "61.75",
+        "longitude": "75.58333"
+    },
+    {
+        "city": "Покров",
+        "latitude": "55.91778",
+        "longitude": "39.175"
+    },
+    {
+        "city": "Покровск",
+        "latitude": "61.48333",
+        "longitude": "129.15"
+    },
+    {
+        "city": "Полевской",
+        "latitude": "56.45",
+        "longitude": "60.18333"
+    },
+    {
+        "city": "Полесск",
+        "latitude": "54.86667",
+        "longitude": "21.1"
+    },
+    {
+        "city": "Полысаево",
+        "latitude": "54.6",
+        "longitude": "86.28333"
+    },
+    {
+        "city": "Полярные Зори",
+        "latitude": "67.36583",
+        "longitude": "32.49806"
+    },
+    {
+        "city": "Полярный",
+        "latitude": "69.19833",
+        "longitude": "33.45611"
+    },
+    {
+        "city": "Поронайск",
+        "latitude": "49.21667",
+        "longitude": "143.1"
+    },
+    {
+        "city": "Порхов",
+        "latitude": "57.76667",
+        "longitude": "29.55"
+    },
+    {
+        "city": "Похвистнево",
+        "latitude": "53.65",
+        "longitude": "52.13333"
+    },
+    {
+        "city": "Почеп",
+        "latitude": "52.93333",
+        "longitude": "33.45"
+    },
+    {
+        "city": "Починок",
+        "latitude": "54.4",
+        "longitude": "32.45"
+    },
+    {
+        "city": "Пошехонье",
+        "latitude": "58.5",
+        "longitude": "39.11667"
+    },
+    {
+        "city": "Правдинск",
+        "latitude": "54.45",
+        "longitude": "21.01667"
+    },
+    {
+        "city": "Приволжск",
+        "latitude": "57.38333",
+        "longitude": "41.28333"
+    },
+    {
+        "city": "Приморск",
+        "latitude": "54.73333",
+        "longitude": "20"
+    },
+    {
+        "city": "Приморско-Ахтарск",
+        "latitude": "46.05",
+        "longitude": "38.18333"
+    },
+    {
+        "city": "Приозерск",
+        "latitude": "61.035979",
+        "longitude": "30.115589"
+    },
+    {
+        "city": "Прокопьевск",
+        "latitude": "53.88333",
+        "longitude": "86.71667"
+    },
+    {
+        "city": "Пролетарск",
+        "latitude": "46.70306",
+        "longitude": "41.71917"
+    },
+    {
+        "city": "Протвино",
+        "latitude": "54.87944",
+        "longitude": "37.21389"
+    },
+    {
+        "city": "Прохладный",
+        "latitude": "43.750055",
+        "longitude": "44.033333"
+    },
+    {
+        "city": "Псков",
+        "latitude": "57.81667",
+        "longitude": "28.33333"
+    },
+    {
+        "city": "Пугачёв",
+        "latitude": "52.01667",
+        "longitude": "48.8"
+    },
+    {
+        "city": "Пудож",
+        "latitude": "61.8",
+        "longitude": "36.53333"
+    },
+    {
+        "city": "Пустошка",
+        "latitude": "56.33333",
+        "longitude": "29.36667"
+    },
+    {
+        "city": "Пучеж",
+        "latitude": "56.98333",
+        "longitude": "43.16667"
+    },
+    {
+        "city": "Пушкин",
+        "latitude": "59.71667",
+        "longitude": "30.41667"
+    },
+    {
+        "city": "Пушкино",
+        "latitude": "56.01667",
+        "longitude": "37.85"
+    },
+    {
+        "city": "Пущино",
+        "latitude": "54.83333",
+        "longitude": "37.61667"
+    },
+    {
+        "city": "Пыталово",
+        "latitude": "57.066666666667",
+        "longitude": "27.916666666667"
+    },
+    {
+        "city": "Пыть-Ях",
+        "latitude": "60.75",
+        "longitude": "72.78333"
+    },
+    {
+        "city": "Пятигорск",
+        "latitude": "44.0499664",
+        "longitude": "43.0600548"
+    },
+    {
+        "city": "Радужный",
+        "latitude": "55.99778",
+        "longitude": "40.32972"
+    },
+    {
+        "city": "Райчихинск",
+        "latitude": "49.8",
+        "longitude": "129.4"
+    },
+    {
+        "city": "Раменское",
+        "latitude": "55.56667",
+        "longitude": "38.21667"
+    },
+    {
+        "city": "Рассказово",
+        "latitude": "52.66667",
+        "longitude": "41.88333"
+    },
+    {
+        "city": "Ревда",
+        "latitude": "56.8",
+        "longitude": "59.91667"
+    },
+    {
+        "city": "Реж",
+        "latitude": "57.36667",
+        "longitude": "61.4"
+    },
+    {
+        "city": "Реутов",
+        "latitude": "55.760611",
+        "longitude": "37.855194"
+    },
+    {
+        "city": "Ржев",
+        "latitude": "56.26556",
+        "longitude": "34.3275"
+    },
+    {
+        "city": "Родники",
+        "latitude": "57.1",
+        "longitude": "41.73333"
+    },
+    {
+        "city": "Рославль",
+        "latitude": "53.949166666667",
+        "longitude": "32.856944444444"
+    },
+    {
+        "city": "Россошь",
+        "latitude": "50.2",
+        "longitude": "39.58333"
+    },
+    {
+        "city": "Ростов-на-Дону",
+        "latitude": "47.24056",
+        "longitude": "39.71056"
+    },
+    {
+        "city": "Ростов",
+        "latitude": "57.18333",
+        "longitude": "39.41667"
+    },
+    {
+        "city": "Рошаль",
+        "latitude": "55.66361",
+        "longitude": "39.865"
+    },
+    {
+        "city": "Ртищево",
+        "latitude": "52.25",
+        "longitude": "43.78333"
+    },
+    {
+        "city": "Рубцовск",
+        "latitude": "51.52722",
+        "longitude": "81.218806"
+    },
+    {
+        "city": "Рудня",
+        "latitude": "54.95",
+        "longitude": "31.06667"
+    },
+    {
+        "city": "Руза",
+        "latitude": "55.698888888889",
+        "longitude": "36.195277777778"
+    },
+    {
+        "city": "Рузаевка",
+        "latitude": "54.06667",
+        "longitude": "44.95"
+    },
+    {
+        "city": "Рыбинск",
+        "latitude": "58.05",
+        "longitude": "38.83333"
+    },
+    {
+        "city": "Рыбное",
+        "latitude": "54.73333",
+        "longitude": "39.51667"
+    },
+    {
+        "city": "Рыльск",
+        "latitude": "51.56667",
+        "longitude": "34.68333"
+    },
+    {
+        "city": "Ряжск",
+        "latitude": "53.71667",
+        "longitude": "40.06667"
+    },
+    {
+        "city": "Рязань",
+        "latitude": "54.61667",
+        "longitude": "39.71667"
+    },
+    {
+        "city": "Саки",
+        "latitude": "45.13361",
+        "longitude": "33.57722"
+    },
+    {
+        "city": "Салават",
+        "latitude": "53.36667",
+        "longitude": "55.93333"
+    },
+    {
+        "city": "Салаир",
+        "latitude": "54.23333",
+        "longitude": "85.8"
+    },
+    {
+        "city": "Салехард",
+        "latitude": "66.53333",
+        "longitude": "66.63333"
+    },
+    {
+        "city": "Сальск",
+        "latitude": "46.48333",
+        "longitude": "41.53333"
+    },
+    {
+        "city": "Самара",
+        "latitude": "53.18333",
+        "longitude": "50.11667"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "latitude": "59.95",
+        "longitude": "30.31667"
+    },
+    {
+        "city": "Саранск",
+        "latitude": "54.18333",
+        "longitude": "45.18333"
+    },
+    {
+        "city": "Сарапул",
+        "latitude": "56.46667",
+        "longitude": "53.8"
+    },
+    {
+        "city": "Саратов",
+        "latitude": "51.53333",
+        "longitude": "46"
+    },
+    {
+        "city": "Саров",
+        "latitude": "54.93333",
+        "longitude": "43.31667"
+    },
+    {
+        "city": "Сасово",
+        "latitude": "54.35",
+        "longitude": "41.91667"
+    },
+    {
+        "city": "Сатка",
+        "latitude": "55.05",
+        "longitude": "59.05"
+    },
+    {
+        "city": "Сафоново",
+        "latitude": "55.1",
+        "longitude": "33.25"
+    },
+    {
+        "city": "Саяногорск",
+        "latitude": "53.1",
+        "longitude": "91.4"
+    },
+    {
+        "city": "Саянск",
+        "latitude": "54.11667",
+        "longitude": "102.16667"
+    },
+    {
+        "city": "Светлогорск",
+        "latitude": "54.9394",
+        "longitude": "20.1565"
+    },
+    {
+        "city": "Светлоград",
+        "latitude": "45.33083",
+        "longitude": "42.85111"
+    },
+    {
+        "city": "Светлый",
+        "latitude": "54.68333",
+        "longitude": "20.13333"
+    },
+    {
+        "city": "Светогорск",
+        "latitude": "61.10833",
+        "longitude": "28.85833"
+    },
+    {
+        "city": "Свирск",
+        "latitude": "53.08333",
+        "longitude": "103.33333"
+    },
+    {
+        "city": "Свободный",
+        "latitude": "51.38333",
+        "longitude": "128.13333"
+    },
+    {
+        "city": "Себеж",
+        "latitude": "56.28333",
+        "longitude": "28.48333"
+    },
+    {
+        "city": "Севастополь",
+        "latitude": "44.6",
+        "longitude": "33.53333"
+    },
+    {
+        "city": "Северо-Курильск",
+        "latitude": "50.66667",
+        "longitude": "156.11667"
+    },
+    {
+        "city": "Северобайкальск",
+        "latitude": "55.63333",
+        "longitude": "109.31667"
+    },
+    {
+        "city": "Северодвинск",
+        "latitude": "64.56667",
+        "longitude": "39.85"
+    },
+    {
+        "city": "Североморск",
+        "latitude": "69.06917",
+        "longitude": "33.41667"
+    },
+    {
+        "city": "Североуральск",
+        "latitude": "60.15",
+        "longitude": "59.93333"
+    },
+    {
+        "city": "Северск",
+        "latitude": "56.6",
+        "longitude": "84.85"
+    },
+    {
+        "city": "Севск",
+        "latitude": "52.15",
+        "longitude": "34.49389"
+    },
+    {
+        "city": "Сегежа",
+        "latitude": "63.73333",
+        "longitude": "34.31667"
+    },
+    {
+        "city": "Сельцо",
+        "latitude": "53.36944",
+        "longitude": "34.1"
+    },
+    {
+        "city": "Семикаракорск",
+        "latitude": "47.51667",
+        "longitude": "40.8"
+    },
+    {
+        "city": "Семилуки",
+        "latitude": "51.68333",
+        "longitude": "39.03333"
+    },
+    {
+        "city": "Семёнов",
+        "latitude": "56.78944",
+        "longitude": "44.49056"
+    },
+    {
+        "city": "Сенгилей",
+        "latitude": "53.96667",
+        "longitude": "48.8"
+    },
+    {
+        "city": "Серафимович",
+        "latitude": "49.58333",
+        "longitude": "42.73333"
+    },
+    {
+        "city": "Сергач",
+        "latitude": "55.53333",
+        "longitude": "45.46667"
+    },
+    {
+        "city": "Сергиев Посад",
+        "latitude": "56.3",
+        "longitude": "38.13333"
+    },
+    {
+        "city": "Сердобск",
+        "latitude": "52.46667",
+        "longitude": "44.21667"
+    },
+    {
+        "city": "Серов",
+        "latitude": "59.58333",
+        "longitude": "60.56667"
+    },
+    {
+        "city": "Серпухов",
+        "latitude": "54.91667",
+        "longitude": "37.4"
+    },
+    {
+        "city": "Сертолово",
+        "latitude": "60.141613",
+        "longitude": "30.211879"
+    },
+    {
+        "city": "Сестрорецк",
+        "latitude": "60.1",
+        "longitude": "29.96667"
+    },
+    {
+        "city": "Сибай",
+        "latitude": "52.7",
+        "longitude": "58.65"
+    },
+    {
+        "city": "Сим",
+        "latitude": "54.98333",
+        "longitude": "57.68333"
+    },
+    {
+        "city": "Симферополь",
+        "latitude": "44.94806",
+        "longitude": "34.10417"
+    },
+    {
+        "city": "Сковородино",
+        "latitude": "53.98333",
+        "longitude": "123.93333"
+    },
+    {
+        "city": "Скопин",
+        "latitude": "53.81667",
+        "longitude": "39.55"
+    },
+    {
+        "city": "Славгород",
+        "latitude": "53",
+        "longitude": "78.65"
+    },
+    {
+        "city": "Славск",
+        "latitude": "55.05",
+        "longitude": "21.66667"
+    },
+    {
+        "city": "Славянск-на-Кубани",
+        "latitude": "45.25861",
+        "longitude": "38.12472"
+    },
+    {
+        "city": "Сланцы",
+        "latitude": "59.11779",
+        "longitude": "28.088145"
+    },
+    {
+        "city": "Слободской",
+        "latitude": "58.724167",
+        "longitude": "50.161167"
+    },
+    {
+        "city": "Слюдянка",
+        "latitude": "51.66667",
+        "longitude": "103.7"
+    },
+    {
+        "city": "Смоленск",
+        "latitude": "54.78278",
+        "longitude": "32.04528"
+    },
+    {
+        "city": "Снежинск",
+        "latitude": "56.08333",
+        "longitude": "60.73333"
+    },
+    {
+        "city": "Снежногорск",
+        "latitude": "69.19417",
+        "longitude": "33.23306"
+    },
+    {
+        "city": "Собинка",
+        "latitude": "55.99",
+        "longitude": "40.01667"
+    },
+    {
+        "city": "Советск",
+        "latitude": "55.08333",
+        "longitude": "21.88333"
+    },
+    {
+        "city": "Советская Гавань",
+        "latitude": "48.966373",
+        "longitude": "140.285189"
+    },
+    {
+        "city": "Советский",
+        "latitude": "61.36667",
+        "longitude": "63.56667"
+    },
+    {
+        "city": "Сокол",
+        "latitude": "59.46667",
+        "longitude": "40.11667"
+    },
+    {
+        "city": "Солигалич",
+        "latitude": "59.08333",
+        "longitude": "42.28333"
+    },
+    {
+        "city": "Соликамск",
+        "latitude": "59.63333",
+        "longitude": "56.76667"
+    },
+    {
+        "city": "Солнечногорск",
+        "latitude": "56.185114",
+        "longitude": "36.977618"
+    },
+    {
+        "city": "Соль-Илецк",
+        "latitude": "51.16667",
+        "longitude": "54.98333"
+    },
+    {
+        "city": "Сольвычегодск",
+        "latitude": "61.33333",
+        "longitude": "46.91667"
+    },
+    {
+        "city": "Сольцы",
+        "latitude": "58.11667",
+        "longitude": "30.31667"
+    },
+    {
+        "city": "Сорочинск",
+        "latitude": "52.43333",
+        "longitude": "53.15"
+    },
+    {
+        "city": "Сорск",
+        "latitude": "54",
+        "longitude": "90.25"
+    },
+    {
+        "city": "Сортавала",
+        "latitude": "61.7",
+        "longitude": "30.66667"
+    },
+    {
+        "city": "Сосенский",
+        "latitude": "54.05",
+        "longitude": "35.96667"
+    },
+    {
+        "city": "Сосновка",
+        "latitude": "56.2543",
+        "longitude": "51.2812"
+    },
+    {
+        "city": "Сосновоборск",
+        "latitude": "56.13333",
+        "longitude": "93.36667"
+    },
+    {
+        "city": "Сосновый Бор",
+        "latitude": "59.9",
+        "longitude": "29.08611"
+    },
+    {
+        "city": "Сосногорск",
+        "latitude": "63.58333",
+        "longitude": "53.93333"
+    },
+    {
+        "city": "Сочи",
+        "latitude": "43.58528",
+        "longitude": "39.72028"
+    },
+    {
+        "city": "Спас-Деменск",
+        "latitude": "54.409808",
+        "longitude": "34.018992"
+    },
+    {
+        "city": "Спас-Клепики",
+        "latitude": "55.13333",
+        "longitude": "40.16667"
+    },
+    {
+        "city": "Спасск-Дальний",
+        "latitude": "44.6",
+        "longitude": "132.81667"
+    },
+    {
+        "city": "Спасск-Рязанский",
+        "latitude": "54.4",
+        "longitude": "40.38333"
+    },
+    {
+        "city": "Спасск",
+        "latitude": "53.93333",
+        "longitude": "43.18333"
+    },
+    {
+        "city": "Среднеколымск",
+        "latitude": "67.458",
+        "longitude": "153.706"
+    },
+    {
+        "city": "Среднеуральск",
+        "latitude": "56.98333",
+        "longitude": "60.46667"
+    },
+    {
+        "city": "Сретенск",
+        "latitude": "52.25",
+        "longitude": "117.71667"
+    },
+    {
+        "city": "Ставрополь",
+        "latitude": "45.03333",
+        "longitude": "41.96667"
+    },
+    {
+        "city": "Старая Купавна",
+        "latitude": "55.8",
+        "longitude": "38.18333"
+    },
+    {
+        "city": "Старая Русса",
+        "latitude": "57.98333",
+        "longitude": "31.35"
+    },
+    {
+        "city": "Старица",
+        "latitude": "56.51667",
+        "longitude": "34.93333"
+    },
+    {
+        "city": "Стародуб",
+        "latitude": "52.58333",
+        "longitude": "32.76667"
+    },
+    {
+        "city": "Старый Крым",
+        "latitude": "45.02917",
+        "longitude": "35.08861"
+    },
+    {
+        "city": "Старый Оскол",
+        "latitude": "51.29806",
+        "longitude": "37.835"
+    },
+    {
+        "city": "Стерлитамак",
+        "latitude": "53.63333",
+        "longitude": "55.95"
+    },
+    {
+        "city": "Стрежевой",
+        "latitude": "60.73333",
+        "longitude": "77.58333"
+    },
+    {
+        "city": "Строитель",
+        "latitude": "50.78333",
+        "longitude": "36.48333"
+    },
+    {
+        "city": "Струнино",
+        "latitude": "56.37333",
+        "longitude": "38.585"
+    },
+    {
+        "city": "Ступино",
+        "latitude": "54.88694",
+        "longitude": "38.07722"
+    },
+    {
+        "city": "Суворов",
+        "latitude": "54.11667",
+        "longitude": "36.5"
+    },
+    {
+        "city": "Судак",
+        "latitude": "44.85139",
+        "longitude": "34.9725"
+    },
+    {
+        "city": "Суджа",
+        "latitude": "51.190694",
+        "longitude": "35.27083"
+    },
+    {
+        "city": "Судогда",
+        "latitude": "55.95",
+        "longitude": "40.86667"
+    },
+    {
+        "city": "Суздаль",
+        "latitude": "56.42111",
+        "longitude": "40.44889"
+    },
+    {
+        "city": "Сунжа",
+        "latitude": "43.313475",
+        "longitude": "45.051581"
+    },
+    {
+        "city": "Суоярви",
+        "latitude": "62.08333",
+        "longitude": "32.36667"
+    },
+    {
+        "city": "Сураж",
+        "latitude": "53.01667",
+        "longitude": "32.4"
+    },
+    {
+        "city": "Сургут",
+        "latitude": "61.25",
+        "longitude": "73.43333"
+    },
+    {
+        "city": "Суровикино",
+        "latitude": "48.6",
+        "longitude": "42.85"
+    },
+    {
+        "city": "Сурск",
+        "latitude": "53.08333",
+        "longitude": "45.7"
+    },
+    {
+        "city": "Сусуман",
+        "latitude": "62.78333",
+        "longitude": "148.15"
+    },
+    {
+        "city": "Сухиничи",
+        "latitude": "54.1",
+        "longitude": "35.35"
+    },
+    {
+        "city": "Сухой Лог",
+        "latitude": "56.90583",
+        "longitude": "62.03417"
+    },
+    {
+        "city": "Сызрань",
+        "latitude": "53.16667",
+        "longitude": "48.46667"
+    },
+    {
+        "city": "Сыктывкар",
+        "latitude": "61.66667",
+        "longitude": "50.81667"
+    },
+    {
+        "city": "Сысерть",
+        "latitude": "56.5",
+        "longitude": "60.81667"
+    },
+    {
+        "city": "Сычёвка",
+        "latitude": "55.83333",
+        "longitude": "34.28333"
+    },
+    {
+        "city": "Сясьстрой",
+        "latitude": "60.137057",
+        "longitude": "32.561279"
+    },
+    {
+        "city": "Тавда",
+        "latitude": "58.05",
+        "longitude": "65.26667"
+    },
+    {
+        "city": "Таганрог",
+        "latitude": "47.23917",
+        "longitude": "38.88333"
+    },
+    {
+        "city": "Тайга",
+        "latitude": "56.06667",
+        "longitude": "85.61667"
+    },
+    {
+        "city": "Тайшет",
+        "latitude": "55.93333",
+        "longitude": "98.01667"
+    },
+    {
+        "city": "Талдом",
+        "latitude": "56.73333",
+        "longitude": "37.53333"
+    },
+    {
+        "city": "Талица",
+        "latitude": "57.0125",
+        "longitude": "63.72917"
+    },
+    {
+        "city": "Тамбов",
+        "latitude": "52.71667",
+        "longitude": "41.43333"
+    },
+    {
+        "city": "Тара",
+        "latitude": "56.902383",
+        "longitude": "74.37079"
+    },
+    {
+        "city": "Тарко-Сале",
+        "latitude": "64.91472",
+        "longitude": "77.77278"
+    },
+    {
+        "city": "Таруса",
+        "latitude": "54.71667",
+        "longitude": "37.18333"
+    },
+    {
+        "city": "Татарск",
+        "latitude": "55.21667",
+        "longitude": "75.96667"
+    },
+    {
+        "city": "Таштагол",
+        "latitude": "52.76667",
+        "longitude": "87.86667"
+    },
+    {
+        "city": "Тверь",
+        "latitude": "56.8578278",
+        "longitude": "35.9219278"
+    },
+    {
+        "city": "Теберда",
+        "latitude": "43.449437",
+        "longitude": "41.74382"
+    },
+    {
+        "city": "Тейково",
+        "latitude": "56.85",
+        "longitude": "40.55"
+    },
+    {
+        "city": "Темников",
+        "latitude": "54.63333",
+        "longitude": "43.21667"
+    },
+    {
+        "city": "Темрюк",
+        "latitude": "45.26667",
+        "longitude": "37.38333"
+    },
+    {
+        "city": "Терек",
+        "latitude": "43.483317",
+        "longitude": "44.138871"
+    },
+    {
+        "city": "Тетюши",
+        "latitude": "54.93333",
+        "longitude": "48.83333"
+    },
+    {
+        "city": "Тимашёвск",
+        "latitude": "45.61667",
+        "longitude": "38.93333"
+    },
+    {
+        "city": "Тихвин",
+        "latitude": "59.644213",
+        "longitude": "33.542105"
+    },
+    {
+        "city": "Тихорецк",
+        "latitude": "45.85",
+        "longitude": "40.11667"
+    },
+    {
+        "city": "Тобольск",
+        "latitude": "58.19528",
+        "longitude": "68.25806"
+    },
+    {
+        "city": "Тогучин",
+        "latitude": "55.23333",
+        "longitude": "84.38333"
+    },
+    {
+        "city": "Тольятти",
+        "latitude": "53.516666666667",
+        "longitude": "49.416666666667"
+    },
+    {
+        "city": "Томари",
+        "latitude": "47.76667",
+        "longitude": "142.06667"
+    },
+    {
+        "city": "Томмот",
+        "latitude": "58.96667",
+        "longitude": "126.26667"
+    },
+    {
+        "city": "Томск",
+        "latitude": "56.48861",
+        "longitude": "84.95222"
+    },
+    {
+        "city": "Топки",
+        "latitude": "55.28333",
+        "longitude": "85.61667"
+    },
+    {
+        "city": "Торжок",
+        "latitude": "57.03333",
+        "longitude": "34.96667"
+    },
+    {
+        "city": "Торопец",
+        "latitude": "56.5",
+        "longitude": "31.63333"
+    },
+    {
+        "city": "Тосно",
+        "latitude": "59.541179",
+        "longitude": "30.875006"
+    },
+    {
+        "city": "Тотьма",
+        "latitude": "59.98333",
+        "longitude": "42.76667"
+    },
+    {
+        "city": "Троицк",
+        "latitude": "55.467",
+        "longitude": "37.3"
+    },
+    {
+        "city": "Трубчевск",
+        "latitude": "52.58333",
+        "longitude": "33.76667"
+    },
+    {
+        "city": "Трёхгорный",
+        "latitude": "54.8",
+        "longitude": "58.45"
+    },
+    {
+        "city": "Туапсе",
+        "latitude": "44.100016",
+        "longitude": "39.083223"
+    },
+    {
+        "city": "Туймазы",
+        "latitude": "54.6",
+        "longitude": "53.7"
+    },
+    {
+        "city": "Тула",
+        "latitude": "54.2",
+        "longitude": "37.61667"
+    },
+    {
+        "city": "Тулун",
+        "latitude": "54.56667",
+        "longitude": "100.56667"
+    },
+    {
+        "city": "Туран",
+        "latitude": "52.1446",
+        "longitude": "93.9181"
+    },
+    {
+        "city": "Туринск",
+        "latitude": "58.03333",
+        "longitude": "63.7"
+    },
+    {
+        "city": "Тутаев",
+        "latitude": "57.88333",
+        "longitude": "39.53333"
+    },
+    {
+        "city": "Тында",
+        "latitude": "55.15",
+        "longitude": "124.71667"
+    },
+    {
+        "city": "Тырныауз",
+        "latitude": "43.3892665",
+        "longitude": "42.9189065"
+    },
+    {
+        "city": "Тюкалинск",
+        "latitude": "55.86667",
+        "longitude": "72.2"
+    },
+    {
+        "city": "Тюмень",
+        "latitude": "57.15",
+        "longitude": "65.53333"
+    },
+    {
+        "city": "Уварово",
+        "latitude": "51.98333",
+        "longitude": "42.26667"
+    },
+    {
+        "city": "Углегорск",
+        "latitude": "49.06667",
+        "longitude": "142.03333"
+    },
+    {
+        "city": "Углич",
+        "latitude": "57.53333",
+        "longitude": "38.33333"
+    },
+    {
+        "city": "Удачный",
+        "latitude": "66.4",
+        "longitude": "112.3"
+    },
+    {
+        "city": "Удомля",
+        "latitude": "57.88333",
+        "longitude": "35.01667"
+    },
+    {
+        "city": "Ужур",
+        "latitude": "55.31667",
+        "longitude": "89.81667"
+    },
+    {
+        "city": "Узловая",
+        "latitude": "53.9791417",
+        "longitude": "38.1600833"
+    },
+    {
+        "city": "Улан-Удэ",
+        "latitude": "51.83333",
+        "longitude": "107.61667"
+    },
+    {
+        "city": "Ульяновск",
+        "latitude": "54.316666666667",
+        "longitude": "48.366666666667"
+    },
+    {
+        "city": "Унеча",
+        "latitude": "52.85",
+        "longitude": "32.68333"
+    },
+    {
+        "city": "Урай",
+        "latitude": "60.13333",
+        "longitude": "64.78333"
+    },
+    {
+        "city": "Урень",
+        "latitude": "57.46667",
+        "longitude": "45.78333"
+    },
+    {
+        "city": "Уржум",
+        "latitude": "57.11667",
+        "longitude": "50"
+    },
+    {
+        "city": "Урус-Мартан",
+        "latitude": "43.129123",
+        "longitude": "45.54167"
+    },
+    {
+        "city": "Урюпинск",
+        "latitude": "50.8",
+        "longitude": "42.01667"
+    },
+    {
+        "city": "Усинск",
+        "latitude": "65.995028",
+        "longitude": "57.557139"
+    },
+    {
+        "city": "Усмань",
+        "latitude": "52.05",
+        "longitude": "39.73333"
+    },
+    {
+        "city": "Усолье-Сибирское",
+        "latitude": "52.75",
+        "longitude": "103.65"
+    },
+    {
+        "city": "Усолье",
+        "latitude": "59.41667",
+        "longitude": "56.68333"
+    },
+    {
+        "city": "Уссурийск",
+        "latitude": "43.8",
+        "longitude": "131.95"
+    },
+    {
+        "city": "Усть-Джегута",
+        "latitude": "44.08611",
+        "longitude": "41.97194"
+    },
+    {
+        "city": "Усть-Илимск",
+        "latitude": "58",
+        "longitude": "102.66667"
+    },
+    {
+        "city": "Усть-Катав",
+        "latitude": "54.93333",
+        "longitude": "58.16667"
+    },
+    {
+        "city": "Усть-Кут",
+        "latitude": "56.8",
+        "longitude": "105.83333"
+    },
+    {
+        "city": "Усть-Лабинск",
+        "latitude": "45.21528",
+        "longitude": "39.68944"
+    },
+    {
+        "city": "Устюжна",
+        "latitude": "58.83333",
+        "longitude": "36.43333"
+    },
+    {
+        "city": "Уфа",
+        "latitude": "54.73333",
+        "longitude": "55.96667"
+    },
+    {
+        "city": "Ухта",
+        "latitude": "63.56667",
+        "longitude": "53.7"
+    },
+    {
+        "city": "Учалы",
+        "latitude": "54.31667",
+        "longitude": "59.38333"
+    },
+    {
+        "city": "Уяр",
+        "latitude": "55.81667",
+        "longitude": "94.31667"
+    },
+    {
+        "city": "Фатеж",
+        "latitude": "52.08944",
+        "longitude": "35.85889"
+    },
+    {
+        "city": "Феодосия",
+        "latitude": "45.04889",
+        "longitude": "35.37917"
+    },
+    {
+        "city": "Фокино",
+        "latitude": "53.45",
+        "longitude": "34.41667"
+    },
+    {
+        "city": "Фролово",
+        "latitude": "49.76667",
+        "longitude": "43.65"
+    },
+    {
+        "city": "Фрязино",
+        "latitude": "55.95",
+        "longitude": "38.05"
+    },
+    {
+        "city": "Фурманов",
+        "latitude": "57.25",
+        "longitude": "41.1"
+    },
+    {
+        "city": "Хабаровск",
+        "latitude": "48.48333",
+        "longitude": "135.06667"
+    },
+    {
+        "city": "Хадыженск",
+        "latitude": "44.42389",
+        "longitude": "39.53722"
+    },
+    {
+        "city": "Ханты-Мансийск",
+        "latitude": "61",
+        "longitude": "69"
+    },
+    {
+        "city": "Харабали",
+        "latitude": "47.4",
+        "longitude": "47.25"
+    },
+    {
+        "city": "Харовск",
+        "latitude": "59.95",
+        "longitude": "40.2"
+    },
+    {
+        "city": "Хасавюрт",
+        "latitude": "43.249937",
+        "longitude": "46.583247"
+    },
+    {
+        "city": "Хвалынск",
+        "latitude": "52.48333",
+        "longitude": "48.1"
+    },
+    {
+        "city": "Хилок",
+        "latitude": "51.35",
+        "longitude": "110.45"
+    },
+    {
+        "city": "Химки",
+        "latitude": "55.88917",
+        "longitude": "37.445"
+    },
+    {
+        "city": "Холм",
+        "latitude": "57.15",
+        "longitude": "31.18333"
+    },
+    {
+        "city": "Холмск",
+        "latitude": "47.04028",
+        "longitude": "142.04306"
+    },
+    {
+        "city": "Хотьково",
+        "latitude": "56.25",
+        "longitude": "37.98333"
+    },
+    {
+        "city": "Цивильск",
+        "latitude": "55.86667",
+        "longitude": "47.48333"
+    },
+    {
+        "city": "Цимлянск",
+        "latitude": "47.64667",
+        "longitude": "42.09472"
+    },
+    {
+        "city": "Циолковский",
+        "latitude": "51.7602528",
+        "longitude": "128.121175"
+    },
+    {
+        "city": "Чадан",
+        "latitude": "51.28333",
+        "longitude": "91.56667"
+    },
+    {
+        "city": "Чайковский",
+        "latitude": "56.773291",
+        "longitude": "54.140386"
+    },
+    {
+        "city": "Чапаевск",
+        "latitude": "52.98333",
+        "longitude": "49.71667"
+    },
+    {
+        "city": "Чаплыгин",
+        "latitude": "53.24167",
+        "longitude": "39.96667"
+    },
+    {
+        "city": "Чебаркуль",
+        "latitude": "54.97778",
+        "longitude": "60.37"
+    },
+    {
+        "city": "Чебоксары",
+        "latitude": "56.11667",
+        "longitude": "47.23333"
+    },
+    {
+        "city": "Чегем",
+        "latitude": "43.566657",
+        "longitude": "43.583325"
+    },
+    {
+        "city": "Чекалин",
+        "latitude": "54.1",
+        "longitude": "36.25"
+    },
+    {
+        "city": "Челябинск",
+        "latitude": "55.15",
+        "longitude": "61.4"
+    },
+    {
+        "city": "Чердынь",
+        "latitude": "60.4",
+        "longitude": "56.48333"
+    },
+    {
+        "city": "Черемхово",
+        "latitude": "53.15",
+        "longitude": "103.06667"
+    },
+    {
+        "city": "Черепаново",
+        "latitude": "54.21667",
+        "longitude": "83.36667"
+    },
+    {
+        "city": "Череповец",
+        "latitude": "59.11667",
+        "longitude": "37.9"
+    },
+    {
+        "city": "Черкесск",
+        "latitude": "44.213888",
+        "longitude": "42.04431"
+    },
+    {
+        "city": "Черноголовка",
+        "latitude": "56.01472",
+        "longitude": "38.38972"
+    },
+    {
+        "city": "Черногорск",
+        "latitude": "53.81667",
+        "longitude": "91.28333"
+    },
+    {
+        "city": "Чернушка",
+        "latitude": "56.5",
+        "longitude": "56.08333"
+    },
+    {
+        "city": "Черняховск",
+        "latitude": "54.63333",
+        "longitude": "21.81667"
+    },
+    {
+        "city": "Чехов",
+        "latitude": "55.145",
+        "longitude": "37.45556"
+    },
+    {
+        "city": "Чистополь",
+        "latitude": "55.36667",
+        "longitude": "50.63333"
+    },
+    {
+        "city": "Чита",
+        "latitude": "52.03333",
+        "longitude": "113.5"
+    },
+    {
+        "city": "Чкаловск",
+        "latitude": "56.76667",
+        "longitude": "43.25"
+    },
+    {
+        "city": "Чудово",
+        "latitude": "59.12806",
+        "longitude": "31.65917"
+    },
+    {
+        "city": "Чулым",
+        "latitude": "55.1",
+        "longitude": "80.96667"
+    },
+    {
+        "city": "Чусовой",
+        "latitude": "58.28333",
+        "longitude": "57.81667"
+    },
+    {
+        "city": "Чухлома",
+        "latitude": "58.75",
+        "longitude": "42.7"
+    },
+    {
+        "city": "Чёрмоз",
+        "latitude": "58.78333",
+        "longitude": "56.15"
+    },
+    {
+        "city": "Шагонар",
+        "latitude": "51.53333",
+        "longitude": "92.9"
+    },
+    {
+        "city": "Шадринск",
+        "latitude": "56.08333",
+        "longitude": "63.63333"
+    },
+    {
+        "city": "Шали",
+        "latitude": "43.145",
+        "longitude": "45.903847"
+    },
+    {
+        "city": "Шарыпово",
+        "latitude": "55.525",
+        "longitude": "89.2"
+    },
+    {
+        "city": "Шарья",
+        "latitude": "58.36667",
+        "longitude": "45.5"
+    },
+    {
+        "city": "Шатура",
+        "latitude": "55.5776722",
+        "longitude": "39.5446333"
+    },
+    {
+        "city": "Шахты",
+        "latitude": "47.7122111",
+        "longitude": "40.2083694"
+    },
+    {
+        "city": "Шахунья",
+        "latitude": "57.67472",
+        "longitude": "46.62083"
+    },
+    {
+        "city": "Шацк",
+        "latitude": "54.03333",
+        "longitude": "41.7"
+    },
+    {
+        "city": "Шебекино",
+        "latitude": "50.40778",
+        "longitude": "36.89694"
+    },
+    {
+        "city": "Шелехов",
+        "latitude": "52.2",
+        "longitude": "104.1"
+    },
+    {
+        "city": "Шенкурск",
+        "latitude": "62.1",
+        "longitude": "42.9"
+    },
+    {
+        "city": "Шилка",
+        "latitude": "51.85",
+        "longitude": "116.03333"
+    },
+    {
+        "city": "Шимановск",
+        "latitude": "52",
+        "longitude": "127.66667"
+    },
+    {
+        "city": "Шиханы",
+        "latitude": "52.1137809",
+        "longitude": "47.199229"
+    },
+    {
+        "city": "Шлиссельбург",
+        "latitude": "59.944959",
+        "longitude": "31.034754"
+    },
+    {
+        "city": "Шумерля",
+        "latitude": "55.5",
+        "longitude": "46.41667"
+    },
+    {
+        "city": "Шумиха",
+        "latitude": "55.23333",
+        "longitude": "63.28333"
+    },
+    {
+        "city": "Шуя",
+        "latitude": "56.85",
+        "longitude": "41.36667"
+    },
+    {
+        "city": "Щербинка",
+        "latitude": "55.5",
+        "longitude": "37.56667"
+    },
+    {
+        "city": "Щигры",
+        "latitude": "51.88111",
+        "longitude": "36.90306"
+    },
+    {
+        "city": "Щучье",
+        "latitude": "55.21667",
+        "longitude": "62.76667"
+    },
+    {
+        "city": "Щёкино",
+        "latitude": "54",
+        "longitude": "37.51667"
+    },
+    {
+        "city": "Щёлкино",
+        "latitude": "45.42361",
+        "longitude": "35.81861"
+    },
+    {
+        "city": "Щёлково",
+        "latitude": "55.91667",
+        "longitude": "38"
+    },
+    {
+        "city": "Электрогорск",
+        "latitude": "55.88333",
+        "longitude": "38.78333"
+    },
+    {
+        "city": "Электросталь",
+        "latitude": "55.8",
+        "longitude": "38.45"
+    },
+    {
+        "city": "Электроугли",
+        "latitude": "55.71667",
+        "longitude": "38.21667"
+    },
+    {
+        "city": "Элиста",
+        "latitude": "46.31667",
+        "longitude": "44.26667"
+    },
+    {
+        "city": "Энгельс",
+        "latitude": "51.46667",
+        "longitude": "46.11667"
+    },
+    {
+        "city": "Эртиль",
+        "latitude": "51.83333",
+        "longitude": "40.8"
+    },
+    {
+        "city": "Югорск",
+        "latitude": "61.31667",
+        "longitude": "63.35"
+    },
+    {
+        "city": "Южа",
+        "latitude": "56.58333",
+        "longitude": "42.01667"
+    },
+    {
+        "city": "Южно-Сахалинск",
+        "latitude": "46.95",
+        "longitude": "142.73333"
+    },
+    {
+        "city": "Южно-Сухокумск",
+        "latitude": "44.66667",
+        "longitude": "45.65"
+    },
+    {
+        "city": "Южноуральск",
+        "latitude": "54.45",
+        "longitude": "61.25"
+    },
+    {
+        "city": "Юрга",
+        "latitude": "55.73333",
+        "longitude": "84.9"
+    },
+    {
+        "city": "Юрьев-Польский",
+        "latitude": "56.5",
+        "longitude": "39.68333"
+    },
+    {
+        "city": "Юрьевец",
+        "latitude": "57.31667",
+        "longitude": "43.1"
+    },
+    {
+        "city": "Юрюзань",
+        "latitude": "54.86667",
+        "longitude": "58.43333"
+    },
+    {
+        "city": "Юхнов",
+        "latitude": "54.75",
+        "longitude": "35.23333"
+    },
+    {
+        "city": "Ядрин",
+        "latitude": "55.95",
+        "longitude": "46.2"
+    },
+    {
+        "city": "Якутск",
+        "latitude": "62.027222222222",
+        "longitude": "129.73194444444"
+    },
+    {
+        "city": "Ялта",
+        "latitude": "44.49944",
+        "longitude": "34.15528"
+    },
+    {
+        "city": "Ялуторовск",
+        "latitude": "56.65",
+        "longitude": "66.3"
+    },
+    {
+        "city": "Янаул",
+        "latitude": "56.26667",
+        "longitude": "54.93333"
+    },
+    {
+        "city": "Яранск",
+        "latitude": "57.303306",
+        "longitude": "47.868806"
+    },
+    {
+        "city": "Яровое",
+        "latitude": "52.93333",
+        "longitude": "78.58333"
+    },
+    {
+        "city": "Ярославль",
+        "latitude": "57.61667",
+        "longitude": "39.85"
+    },
+    {
+        "city": "Ярцево",
+        "latitude": "55.06667",
+        "longitude": "32.68333"
+    },
+    {
+        "city": "Ясногорск",
+        "latitude": "54.4793833",
+        "longitude": "37.6933556"
+    },
+    {
+        "city": "Ясный",
+        "latitude": "51.03333",
+        "longitude": "59.86667"
+    },
+    {
+        "city": "Яхрома",
+        "latitude": "56.28333",
+        "longitude": "37.48333"
+    }
+]

@@ -1,0 +1,119 @@
+name: Production workflow
+
+concurrency:
+  group: main_deploy
+  cancel-in-progress: true
+
+on:
+  pull_request:
+    branches:
+      - main
+    types: [closed]
+
+jobs:
+  tests:
+    name: Tests
+    runs-on: ubuntu-20.04
+    services:
+      postgres:
+        image: postgres:15.3
+        env:
+          POSTGRES_USER: postgres
+          POSTGRES_PASSWORD: postgres
+          POSTGRES_DB: rb
+        ports:
+          - 5432:5432
+        options: --health-cmd pg_isready --health-interval 10s --health-timeout 5s --health-retries 5
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: 3.10.7
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r ./backend/requirements.txt
+
+    - name: Run migrations
+      run: python ./backend/manage.py migrate
+
+    - name: Test Pytest
+      run: |
+        python -m pytest
+
+  build_and_push_to_docker_hub:
+      name: Push Docker image to Docker Hub
+      runs-on: ubuntu-20.04
+      needs: tests
+      steps:
+        - name: Check out the repo
+          uses: actions/checkout@v2
+        - name: Set up Docker Buildx
+          uses: docker/setup-buildx-action@v2
+        - name: Login to Docker
+          uses: docker/login-action@v2
+          with:
+            username: ${{ secrets.DOCKER_USERNAME }}
+            password: ${{ secrets.DOCKER_PASSWORD }}
+        - name: Push backend to Docker Hub
+          uses: docker/build-push-action@v4
+          with:
+            context: ./backend
+            file: ./backend/Dockerfile.prod
+            push: true
+            tags: ${{ secrets.PROD_BACKEND_IMAGE }}
+        - name: Push frontend to Docker Hub
+          uses: docker/build-push-action@v4
+          with:
+            context: ./frontend
+            push: true
+            tags: ${{ secrets.PROD_FRONTEND_IMAGE }}
+
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-20.04
+    needs: build_and_push_to_docker_hub
+    steps:
+      - name: executing remote ssh commands to deploy
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USER }}
+          key: ${{ secrets.SSH_KEY }}
+          passphrase: ${{ secrets.PASSPHRASE }}
+          script: |
+            echo PRODUCTION_HOSTS=${{ secrets.PRODUCTION_HOSTS }} > .env
+            echo DB_ENGINE=${{ secrets.DB_ENGINE }} >> .env
+            echo DB_NAME=${{ secrets.DB_NAME }} >> .env
+            echo POSTGRES_USER=${{ secrets.POSTGRES_USER }} >> .env
+            echo POSTGRES_PASSWORD=${{ secrets.POSTGRES_PASSWORD }} >> .env
+            echo DB_HOST=${{ secrets.DB_HOST }} >> .env
+            echo DB_PORT=${{ secrets.DB_PORT }} >> .env
+            echo PGADMIN_DEFAULT_EMAIL=${{ secrets.PGADMIN_DEFAULT_EMAIL }} >> .env
+            echo PGADMIN_DEFAULT_PASSWORD=${{ secrets.PGADMIN_DEFAULT_PASSWORD }} >> .env
+            echo PGADMIN_LISTEN_PORT=${{ secrets.PGADMIN_LISTEN_PORT }} >> .env
+            echo EMAIL_BACKEND=${{ secrets.EMAIL_BACKEND }} >> .env
+            echo EMAIL_HOST=${{ secrets.EMAIL_HOST }} >> .env
+            echo EMAIL_PORT=${{ secrets.EMAIL_PORT }} >> .env
+            echo EMAIL_HOST_USER=${{ secrets.EMAIL_HOST_USER }} >> .env
+            echo EMAIL_HOST_PASSWORD=${{ secrets.EMAIL_HOST_PASSWORD }} >> .env
+            echo EMAIL_USE_SSL=${{ secrets.EMAIL_USE_SSL }} >> .env
+            sudo docker pull ${{ secrets.PROD_BACKEND_IMAGE }}
+            sudo docker pull ${{ secrets.PROD_FRONTEND_IMAGE }}
+            sudo docker-compose down
+            sudo docker-compose up -d
+            sudo docker image prune -a -f
+
+  send_message:
+      name: Send message telegram
+      runs-on: ubuntu-20.04
+      needs: deploy
+      steps:
+      - name: send message
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: ${{ github.workflow }} - размещение нового релиза на продакшене успешно выполнено!!!
