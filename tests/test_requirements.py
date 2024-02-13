@@ -16,9 +16,7 @@ class TestRequirements:
         pip_package = (
             "django",
             "djangorestframework",
-            "djoser",
             "gunicorn",
-            "pillow",
             "pytest-django",
             "psycopg2-binary",
             "python-dotenv",
