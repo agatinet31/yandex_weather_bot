@@ -8,19 +8,17 @@ from yandex_weather.log_config import get_logconfig
 
 load_dotenv()
 
+BASE_DIR = Path(__file__).resolve(strict=True).parent.parent.parent
+
 DEBUG = False
 
 YANDEX_WEATHER_URL = os.getenv(
     "YANDEX_WEATHER_URL", "https://api.weather.yandex.ru/v2/forecast"
 )
 
-X_YANDEX_API_KEY = os.getenv(
-    "X_YANDEX_API_KEY", default=get_random_secret_key()
-)
+X_YANDEX_API_KEY = os.getenv("X_YANDEX_API_KEY", get_random_secret_key())
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", default=get_random_secret_key())
-
-SECRET_KEY = os.getenv("SECRET_KEY", default=get_random_secret_key())
+SECRET_KEY = os.getenv("SECRET_KEY", get_random_secret_key())
 
 TIMEOUT_YANDEX_UPDATE = 30
 
@@ -29,7 +27,6 @@ ALLOWED_HOSTS = [
     "localhost",
 ]
 
-BASE_DIR = Path(__file__).resolve(strict=True).parent.parent.parent
 
 INSTALLED_APPS = [
     "django.contrib.admin",

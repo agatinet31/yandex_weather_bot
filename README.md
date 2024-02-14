@@ -2,6 +2,65 @@
 Сервис онлайн погоды Yandex Weather
 ## Подготовка окружения для разработки
 
+### Создание Docker контейнеров:
+Создать файл .env с переменными окружения для работы с базой данных PostgreSQL:
+```
+# Ключ доступа Yandex API
+X_YANDEX_API_KEY=12345678951231545abcdefgh
+# Токен бота
+BOT_TOKEN=fgdjhj1bnng3h2315gh5x2dc1h
+# Указываем, что работаем с postgresql
+DB_ENGINE=django.db.backends.postgresql
+# Имя базы данных
+DB_NAME=ya_weather
+# Логин для подключения к базе данных
+POSTGRES_USER=postgres
+# Пароль для подключения к БД (установите свой)
+POSTGRES_PASSWORD=postgres
+# Название сервиса (контейнера)
+DB_HOST=db (localhost для локального подключения к БД)
+# Порт для подключения к БД
+DB_PORT=5432
+# PGAdmin
+PGADMIN_DEFAULT_EMAIL=admin@info.ya
+PGADMIN_DEFAULT_PASSWORD=12345
+```
+
+Перейти в директорию infra:
+```
+cd infra
+```
+
+Создаем и запускаем сервисы приложения:
+```
+docker-compose up -d --build
+```
+
+Создать базу данных в контейнере db:
+```
+psql -U postgres -c 'create database ya_weather;'
+```
+
+Выполнить миграции в контейнере backend:
+```
+python manage.py migrate
+```
+
+Импортировать данные:
+```
+python manage.py import_json --path ./data/import-russian-cities.json --model YandexWeatherModel
+```
+
+Swagger документация проекта:
+```
+http://127.0.0.1/api/schema/swagger-ui
+```
+
+Доступ PGAdmin:
+```
+http://127.0.0.1/pgadmin4
+```
+
 ### Предварительные требования(backend):
 1. **Poetry** \
 Зависимости и пакеты управляются через **poetry**. Убедитесь, что **poetry** [установлен](https://python-poetry.org/docs/#osx--linux--bashonwindows-install-instructions) на вашем компьютере и ознакомьтесь с [документацией](https://python-poetry.org/docs/cli/).
@@ -43,60 +102,7 @@
     ```
     poetry env info --path
     ```
-5. Создать базу данных PostgreSQL:
+5. Запуск проекта:
     ```
-    DB_NAME=ya_weather
+    python ./backend/manage.py runserver
     ```
-6. Создать файл .env с переменными окружения для работы с базой данных PostgreSQL:
-
-    ```
-    # Ключ доступа Yandex API
-    X_Yandex_API_Key=12345678951231545abcdefgh
-    # Доступ с хостов
-    ALLOWED_HOSTS=127.0.0.1
-    # Доменное имя
-    PRODUCTION_HOSTS=example.org
-    # Указываем, что работаем с postgresql
-    DB_ENGINE=django.db.backends.postgresql
-    # Имя базы данных
-    DB_NAME=ya_weather
-    # Логин для подключения к базе данных
-    POSTGRES_USER=postgres
-    # Пароль для подключения к БД (установите свой)
-    POSTGRES_PASSWORD=postgres
-    # Название сервиса (контейнера)
-    DB_HOST=db (localhost для локального подключения к БД)
-    # Порт для подключения к БД
-    DB_PORT=5432
-    ```
-7. Применить миграции
-    ```
-    python ./backend/manage.py migrate --settings=yandex_weather.settings.develop
-    ```
-8. Запуск проекта с настройками develop:
-    ```
-    python ./backend/manage.py runserver --settings=yandex_weather.settings.develop
-    ```
-### Создание Docker контейнеров:
-Перейти в директорию infra:
-```
-cd infra
-```
-
-Создаем и запускаем сервисы приложения:
-
-```
-docker-compose up
-```
-
-Создать базу данных:
-```
-docker exec -it {имя контейнера БД} /bin/bash
-psql -U postgres -c 'create database ya_weather;'
-```
-
-Выполнить миграции:
-
-```
-docker-compose exec backend python manage.py migrate
-```

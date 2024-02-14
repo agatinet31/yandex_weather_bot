@@ -1,28 +1,26 @@
 import os
 
-from django.conf import settings
+from .conftest import infra_dir_path
 
 
 class TestRequirements:
     def test_requirements(self):
         try:
-            with open(
-                f'{os.path.join(settings.BASE_DIR, "requirements.txt")}', "r"
-            ) as f:
+            file_name = os.path.join(infra_dir_path, "requirements.prod")
+            with open(file_name, "r") as f:
                 requirements = f.read()
         except FileNotFoundError:
-            assert False, "Проверьте, что добавили файл requirements.txt"
+            assert False, "Проверьте, что добавили файл requirements.prod"
 
         pip_package = (
             "django",
             "djangorestframework",
             "gunicorn",
-            "pytest-django",
             "psycopg2-binary",
             "python-dotenv",
         )
         for package_name in pip_package:
             assert package_name in requirements, (
                 f"Проверьте, что добавили {package_name} "
-                "в файл requirements.txt"
+                "в файл requirements.prod"
             )

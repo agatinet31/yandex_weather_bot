@@ -1,0 +1,4 @@
+.github
+infra/*
+.gitignore
+.pre-commit-config.yaml

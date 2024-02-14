@@ -1,0 +1,95 @@
+﻿version: '3.9'
+
+services:
+  db:
+    image: postgres:15.3-alpine
+    container_name: db
+    restart: unless-stopped
+    volumes:
+      - postgres_db:/var/lib/postgresql/data/
+    environment:
+      - PGDATA:/var/lib/postgresql/data/
+    env_file:
+      - ../.env
+
+  pgadmin4:
+    image: dpage/pgadmin4:7.5
+    container_name: pgadmin4
+    depends_on:
+      - db
+    volumes:
+      - pgadmin-data:/var/lib/pgadmin
+    env_file:
+      - ../.env
+
+  backend:
+    build:
+      context: ../backend
+      additional_contexts:
+        infra: .
+      dockerfile: Dockerfile_Backend.dev
+    container_name: backend
+    depends_on:
+      - db
+    restart: unless-stopped
+    volumes:
+      - static_data:/app/static/
+      - media_data:/app/media/
+      - locale_data:/app/locale/
+      - ../.env:/app/.env
+
+  migrations:
+    build:
+      context: ../backend
+      additional_contexts:
+        infra: .
+      dockerfile: Dockerfile_Backend.dev
+    container_name: migrations_db
+    volumes:
+      - static_data:/app/static/
+      - media_data:/app/media/
+      - ../.env:/app/.env
+    command: >
+      sh -c "
+        sleep 5;
+        python manage.py migrate &&
+        python manage.py collectstatic --noinput
+      "
+    depends_on:
+      - backend
+
+  bot:
+    build:
+      context: ../bot
+      additional_contexts:
+        infra: .
+      dockerfile: Dockerfile_Bot.dev
+    container_name: bot
+    stop_signal: SIGINT
+    restart: "unless-stopped"
+    depends_on:
+      - backend
+    volumes:
+      - ../.env:/app/.env
+
+  nginx:
+    image: nginx:1.21.3-alpine
+    container_name: nginx
+    depends_on:
+      - backend
+    restart: unless-stopped
+    volumes:
+      - ./nginx:/etc/nginx/conf.d
+      - ./nginx/log:/var/log/nginx/
+      - static_data:/var/html/static/
+      - media_data:/var/html/media/
+    ports:
+      - "80:80"
+    command: "/bin/sh -c 'while :; do sleep 6h & wait $${!}; nginx -s reload; done & nginx -g \"daemon off;\"'"
+
+volumes:
+  static_data:
+  media_data:
+  locale_data:
+  postgres_db:
+  pgadmin-data:

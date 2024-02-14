@@ -7,9 +7,8 @@ from .conftest import infra_dir_path
 class TestDockerfileCompose:
     def test_docker_compose_file(self):
         try:
-            with open(
-                f'{os.path.join(infra_dir_path, "docker-compose.yaml")}', "r"
-            ) as f:
+            file_name = os.path.join(infra_dir_path, "docker-compose.yaml")
+            with open(file_name, "r") as f:
                 docker_compose = f.read()
         except FileNotFoundError:
             assert False, (
